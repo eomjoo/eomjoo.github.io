@@ -12,12 +12,43 @@
   #  weight: 20
 
     main:
-      - name: Home
+      - name: J0House
         url: /
-        weight: 10
+        weight: 1
+
       - name: Tags
         identifier: tags
+
+        weight: 30
+
+      - name: Resume
+        identifier: resume
+        weight: 40
+
+      - name: Will study
+
+        weight: 50
+
+      - name: Hobby
+        identifier: hobby
+        weight: 60
+
+      - name: Contact
+        weight: 70
+
+      - name: basketball
+        parent: hobby
+        weight: 10
+      - name: running
+        parent: hobby
         weight: 20
+
+      - name: My page
+        parent: resume
+        url: about/
+        weight: 10
+
+
       - name: Academic
         parent: tags
         url: tags/academic/
