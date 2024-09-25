@@ -7,10 +7,10 @@
 
 appearance:
   theme_day: custom
-    # theme_night: custom
+  theme_night: custom
   font: minimal
   font_size: L
-  color:  blue
+  color:  black
 
 # SEO
 
