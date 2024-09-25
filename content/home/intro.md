@@ -1,23 +1,7 @@
 ---
-# Use the Intro widget of the Blog template
-widget: about.avatar
-
-# This file represents a page section.
-headless: true
-
-# Order that this section will appear in.
-weight: 10
-
-author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+title: "Home"
 ---
 
-저는 엄주영 이에요
+# Welcome to My Website
 
-Check out my [resumé](/about/) and portfolio below 😍
+이곳은 홈 페이지입니다. 방문을 환영합니다!
