@@ -11,4 +11,6 @@ title: "Home"
 
 # Welcome to My Website
 
-이곳은 홈 페이지입니다. 방문을 환영합니다!
+이곳은 엄주영 홈 페이지입니다. 방문을 환영합니다!
+
+{{< widget "about.avatar" >}}

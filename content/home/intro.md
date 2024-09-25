@@ -1,21 +1,8 @@
 ---
-# Use the Intro widget of the Blog template
-widget: about.avatar
-
-# This file represents a page section.
-headless: true
-
-# Order that this section will appear in.
-weight: 10
-
-author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+widget: about.avatar  # 이 파일이 'about.avatar' 위젯임을 명시
+headless: true        # 이 파일을 URL로 직접 접근하지 않도록 설정
+weight: 10            # 위젯의 순서(우선순위)를 설정
+author: admin         # 'admin' 사용자의 프로필을 불러옴
 ---
 
 저는 엄주영 이에요
