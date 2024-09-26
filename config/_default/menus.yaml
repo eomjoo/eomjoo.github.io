@@ -2,6 +2,7 @@ main:
   - name: J0House
     url: /
     weight: 1
+    identifier: "j0house"
 
 
   - name: Tags
