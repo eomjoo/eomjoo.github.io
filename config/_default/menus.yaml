@@ -5,22 +5,22 @@ main:
     identifier: "j0house"
 
 
-  - name: Resume
+  - name: 자기소개
     identifier: resume
     weight: 30
 
-  - name: Project
+  - name: 프로젝트
     identifier: project
     weight: 40
 
-  - name: Will study
+  - name: 공부 목표
     weight: 50
 
-  - name: Hobby
+  - name: 취미
     identifier: hobby
     weight: 60
 
-  - name: Contact
+  - name: 서식지
     weight: 70
 
   - name: basketball
