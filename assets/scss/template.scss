@@ -14,7 +14,7 @@ body {
   background-color: rgb(31, 39, 51);
 }
 
-// custom footer color
+// Custom footer color
 .page-footer {
   background-color: rgb(247, 250, 252);
 }
@@ -23,7 +23,7 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
-// more rounded cards and larger gap between cards
+// More rounded cards and larger gap between cards
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
@@ -33,12 +33,47 @@ body {
   background: rgb(31, 39, 51);
 }
 
-// no navbar shadow
+// Navbar styles
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+  background-color: #2962ff; /* Navbar background color */
+  padding: 0 20px; /* Left and right padding */
 }
 
-// custom section padding
+/* Navbar menu items spacing */
+.navbar ul {
+  display: flex; /* Flexbox for horizontal layout */
+  justify-content: center; /* Center the menu items */
+  align-items: center; /* Vertically center the items */
+}
+
+/* Navbar menu items */
+.navbar ul li {
+  margin-right: 30px;    // !!!!!!!!!!!!!!메뉴 탭 간격
+  list-style: none; /* Remove default list style */
+}
+
+/* Remove right margin from the last menu item */
+.navbar ul li:last-child {
+  margin-right: 0;
+}
+
+/* Navbar links styling */
+.navbar a {
+  color: #ffffff; /* Menu item text color */
+  text-decoration: none; /* Remove underline */
+  padding: 10px 15px; /* Add padding around links */
+  font-size: 16px; /* Font size for menu items */
+  font-weight: bold; /* Make text bold */
+}
+
+/* Navbar hover effect */
+.navbar a:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Add hover background */
+  border-radius: 5px; /* Round corners on hover */
+}
+
+/* Custom section padding */
 .home-section {
   padding: 1rem 0;
 }
@@ -115,14 +150,3 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
-
-/* 네비게이션 바 메뉴 탭 간격 조정 */
-.navbar ul li {
-  margin-right: 200px; /* 각 메뉴 탭 사이에 20px의 간격을 추가 */
-}
-
-/* 마지막 메뉴 항목의 오른쪽 여백 제거 */
-.navbar ul li:last-child {
-  margin-right: 0;
-}
-
