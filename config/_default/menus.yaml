@@ -34,7 +34,7 @@ main:
   - name: My page
     parent: resume
     url: about/
-    weight: 10
+    weight: 11
 
 
 
