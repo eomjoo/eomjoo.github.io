@@ -35,9 +35,9 @@ body {
 
 // Navbar styles
 .navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-  background-color: #2962ff; /* Navbar background color */
+  background-color: #ffffff; /* Navbar background color to white */
   padding: 0 20px; /* Left and right padding */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a soft shadow */
 }
 
 /* Navbar menu items spacing */
@@ -49,7 +49,7 @@ body {
 
 /* Navbar menu items */
 .navbar ul li {
-  margin-right: 30px;    // !!!!!!!!!!!!!!메뉴 탭 간격
+  margin-right: 30px; /* Adjust spacing between menu items */
   list-style: none; /* Remove default list style */
 }
 
@@ -60,7 +60,7 @@ body {
 
 /* Navbar links styling */
 .navbar a {
-  color: #ffffff; /* Menu item text color */
+  color: #333333; /* Menu item text color to dark gray */
   text-decoration: none; /* Remove underline */
   padding: 10px 15px; /* Add padding around links */
   font-size: 16px; /* Font size for menu items */
@@ -69,7 +69,7 @@ body {
 
 /* Navbar hover effect */
 .navbar a:hover {
-  background-color: rgba(255, 255, 255, 0.2); /* Add hover background */
+  background-color: rgba(0, 0, 0, 0.1); /* Add a light hover background */
   border-radius: 5px; /* Round corners on hover */
 }
 
