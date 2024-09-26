@@ -5,12 +5,12 @@ main:
     identifier: "j0house"
 
 
-  - name: Tags
-    identifier: tags
-    weight: 30
-
   - name: Resume
     identifier: resume
+    weight: 30
+
+  - name: Tags
+    identifier: tags
     weight: 40
 
   - name: Will study
