@@ -116,13 +116,19 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-/* 네비게이션 바 메뉴 탭 간격 조정 */
-.navbar ul li {
-  margin-right: 40px; /* 각 메뉴 탭 사이에 20px의 간격을 추가 */
+/* 전체 네비게이션 바를 flex 컨테이너로 설정 */
+.navbar {
+  display: flex;
+  justify-content: space-between; /* 왼쪽과 가운데에 각각 정렬을 적용하기 위함 */
+  align-items: center;
 }
 
-/* 마지막 메뉴 항목의 오른쪽 여백 제거 */
-.navbar ul li:last-child {
-  margin-right: 0;
+/* 왼쪽에 배치할 메뉴 항목 */
+.navbar ul li:first-child {
+  margin-right: auto; /* 첫 번째 항목을 왼쪽에 고정시킴 */
 }
 
+/* 가운데에 배치할 나머지 메뉴 항목 */
+.navbar ul li:not(:first-child) {
+  margin: 0 10px; /* 가운데 항목 간의 간격 조정 */
+}
