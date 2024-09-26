@@ -37,11 +37,11 @@ body {
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
   display: flex;
-  justify-content: space-between; /* 왼쪽과 가운데에 각각 정렬 */
+  justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
   align-items: center; /* 수직 중앙 정렬 */
-  background-color: #ffffff; /* Navbar background color to white */
-  padding: 0 20px; /* Left and right padding */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a soft shadow */
+  background-color: #ffffff; /* 배경색 */
+  padding: 0 20px; /* 좌우 패딩 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
 }
 
 /* 왼쪽 메뉴 (J0House) */
@@ -49,44 +49,65 @@ body {
   margin-right: auto; /* 왼쪽 정렬 */
 }
 
-/* 가운데 메뉴 */
+/* 가운데 메뉴 (secondary) */
 .navbar-center {
   display: flex;
   justify-content: center;
 }
 
-/* Navbar menu items spacing */
-.navbar-center ul {
-  display: flex; /* Flexbox for horizontal layout */
-  align-items: center; /* Vertically center the items */
+/* 메뉴 탭 간격 및 스타일 */
+.navbar-center ul,
+.navbar-left ul {
+  display: flex; /* Flexbox로 가로 배치 */
+  align-items: center; /* 수직 중앙 정렬 */
+  padding: 0;
+  margin: 0;
 }
 
-/* Navbar menu items */
+/* 각 메뉴 아이템 간격 조정 */
 .navbar ul li {
-  margin-right: 30px; /* Adjust spacing between menu items */
-  list-style: none; /* Remove default list style */
+  margin-right: 30px; /* 메뉴 아이템 간격 */
+  list-style: none; /* 기본 목록 스타일 제거 */
 }
 
-/* Remove right margin from the last menu item */
+/* 마지막 메뉴 아이템 오른쪽 여백 제거 */
 .navbar ul li:last-child {
   margin-right: 0;
 }
 
-/* Navbar links styling */
+/* 메뉴 링크 스타일 */
 .navbar a {
-  color: #333333; /* Menu item text color to dark gray */
-  text-decoration: none; /* Remove underline */
-  padding: 10px 15px; /* Add padding around links */
-  font-size: 16px; /* Font size for menu items */
-  font-weight: bold; /* Make text bold */
+  color: #333333; /* 텍스트 색상 */
+  text-decoration: none; /* 밑줄 제거 */
+  padding: 10px 15px; /* 링크 주위에 패딩 */
+  font-size: 16px; /* 글꼴 크기 */
+  font-weight: bold; /* 글자 굵기 */
 }
 
-/* Navbar hover effect */
+/* 메뉴 호버 효과 */
 .navbar a:hover {
-  background-color: rgba(0, 0, 0, 0.1); /* Add a light hover background */
-  border-radius: 5px; /* Round corners on hover */
+  background-color: rgba(0, 0, 0, 0.1); /* 배경색 변경 */
+  border-radius: 5px; /* 모서리 둥글게 */
 }
 
+/* 특정 식별자를 사용해 스타일 적용 (예: Tags 메뉴 탭) */
+.navbar .menu-item-tags {
+  color: #007BFF; /* 특정 색상으로 변경 */
+}
+
+.navbar .menu-item-resume {
+  font-size: 18px; /* 글자 크기 변경 */
+}
+
+/* 왼쪽 메뉴와 가운데 메뉴 각각 조정 */
+.navbar-left {
+  flex: 1; /* 왼쪽 메뉴에 일정 공간 할당 */
+}
+
+.navbar-center {
+  flex: 2; /* 가운데 메뉴에 더 많은 공간 할당 */
+  justify-content: center; /* 가운데 정렬 */
+}
 
 
 /* Custom section padding */
