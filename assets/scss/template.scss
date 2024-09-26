@@ -33,17 +33,31 @@ body {
   background: rgb(31, 39, 51);
 }
 
-// Navbar styles
+
+/* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
+  display: flex;
+  justify-content: space-between; /* 왼쪽과 가운데에 각각 정렬 */
+  align-items: center; /* 수직 중앙 정렬 */
   background-color: #ffffff; /* Navbar background color to white */
   padding: 0 20px; /* Left and right padding */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a soft shadow */
 }
 
+/* 왼쪽 메뉴 (J0House) */
+.navbar-left {
+  margin-right: auto; /* 왼쪽 정렬 */
+}
+
+/* 가운데 메뉴 */
+.navbar-center {
+  display: flex;
+  justify-content: center;
+}
+
 /* Navbar menu items spacing */
-.navbar ul {
+.navbar-center ul {
   display: flex; /* Flexbox for horizontal layout */
-  justify-content: center; /* Center the menu items */
   align-items: center; /* Vertically center the items */
 }
 
@@ -72,6 +86,8 @@ body {
   background-color: rgba(0, 0, 0, 0.1); /* Add a light hover background */
   border-radius: 5px; /* Round corners on hover */
 }
+
+
 
 /* Custom section padding */
 .home-section {

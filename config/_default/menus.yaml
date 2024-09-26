@@ -1,55 +1,41 @@
-  # Navigation Links
-  #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-    #     desired widget in your `content/home/` folder.
-    #   The weight parameter defines the order that the links will appear in.
+main:
+  - name: J0House
+    url: /
+    weight: 1
 
-  #main:
-   # - name: Home
-    #  url: /
-     # weight: 10
-    #- name: Resumé
-    #  url: about/
-    #  weight: 20
+secondary:
+  - name: Tags
+    identifier: tags
+    weight: 30
 
-      main:
-        - name: J0House
-          url: /
-          weight: 1
+  - name: Resume
+    identifier: resume
+    weight: 40
 
-        - name: Tags
-          identifier: tags
+  - name: Will study
+    weight: 50
 
-          weight: 30
+  - name: Hobby
+    identifier: hobby
+    weight: 60
 
-        - name: Resume
-          identifier: resume
-          weight: 40
+  - name: Contact
+    weight: 70
 
-        - name: Will study
+  - name: basketball
+    parent: hobby
+    weight: 10
 
-          weight: 50
+  - name: running
+    parent: hobby
+    weight: 20
 
-        - name: Hobby
-          identifier: hobby
-          weight: 60
+  - name: My page
+    parent: resume
+    url: about/
+    weight: 10
 
-        - name: Contact
-          weight: 70
-
-        - name: basketball
-          parent: hobby
-          weight: 10
-        - name: running
-          parent: hobby
-          weight: 20
-
-        - name: My page
-          parent: resume
-          url: about/
-          weight: 10
-
-
-        - name: Academic
-          parent: tags
-          url: tags/academic/
-          weight: 10
+  - name: Academic
+    parent: tags
+    url: tags/academic/
+    weight: 10
