@@ -46,7 +46,7 @@ body {
 
 /* 왼쪽 메뉴 (J0House) */
 .navbar-left {
-  margin-right: auto; /* 왼쪽 정렬 */
+  margin-right: 100px; /* 왼쪽 메뉴와 나머지 메뉴 사이의 간격 조정 */
 }
 
 /* 가운데 메뉴 (secondary) */
@@ -66,7 +66,7 @@ body {
 
 /* 각 메뉴 아이템 간격 조정 */
 .navbar ul li {
-  margin-right: 50px; /* 메뉴 아이템 간격 */
+  margin-right: 30px; /* 메뉴 아이템 간격 */
   list-style: none; /* 기본 목록 스타일 제거 */
 }
 
@@ -88,25 +88,6 @@ body {
 .navbar a:hover {
   background-color: rgba(0, 0, 0, 0.1); /* 배경색 변경 */
   border-radius: 5px; /* 모서리 둥글게 */
-}
-
-/* 특정 식별자를 사용해 스타일 적용 (예: Tags 메뉴 탭) */
-.navbar .menu-item-tags {
-  color: #007BFF; /* 특정 색상으로 변경 */
-}
-
-.navbar .menu-item-resume {
-  font-size: 18px; /* 글자 크기 변경 */
-}
-
-/* 왼쪽 메뉴와 가운데 메뉴 각각 조정 */
-.navbar-left {
-  flex: 1; /* 왼쪽 메뉴에 일정 공간 할당 */
-}
-
-.navbar-center {
-  flex: 2; /* 가운데 메뉴에 더 많은 공간 할당 */
-  justify-content: center; /* 가운데 정렬 */
 }
 
 
