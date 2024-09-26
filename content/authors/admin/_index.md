@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 엄주영git
+title: 
 
 # Is this the primary user of the site?
 superuser: true
