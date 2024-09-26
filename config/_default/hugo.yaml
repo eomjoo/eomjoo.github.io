@@ -23,8 +23,14 @@ cascade:
 ############################
 ## LANGUAGE
 ############################
-
-defaultContentLanguage: en
+languages:
+  ko:
+    languageName: 한국어
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
