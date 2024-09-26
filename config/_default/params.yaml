@@ -108,5 +108,5 @@ extensions:
     enable: false
 
     params:
-      menu_spacing: 20px
+      menu_spacing: 100px
 
