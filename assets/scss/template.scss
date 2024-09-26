@@ -53,6 +53,7 @@ body {
 .navbar-center {
   display: flex;
   justify-content: center;
+  flex: 1;
 }
 
 /* 메뉴 탭 간격 및 스타일 */
@@ -66,7 +67,7 @@ body {
 
 /* 각 메뉴 아이템 간격 조정 */
 .navbar ul li {
-  margin-right: 100px; /* 메뉴 아이템 간격 */
+  margin-right: 20px; /* 메뉴 아이템 간격 */
   list-style: none; /* 기본 목록 스타일 제거 */
 }
 
@@ -99,15 +100,7 @@ body {
   font-size: 18px; /* 글자 크기 변경 */
 }
 
-/* 왼쪽 메뉴와 가운데 메뉴 각각 조정 */
-.navbar-left {
-  flex: 320px; /* 왼쪽 메뉴에 일정 공간 할당 */
-}
 
-.navbar-center {
-  flex: 1; /* 가운데 메뉴에 더 많은 공간 할당 */
-  justify-content: right; /* 가운데 정렬 */
-}
 
 
 /* Custom section padding */
