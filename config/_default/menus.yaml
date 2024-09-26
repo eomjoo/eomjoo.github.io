@@ -36,9 +36,6 @@ main:
     url: about/
     weight: 10
 
-  - name: Academic
-    parent: tags
-    url: tags/academic/
-    weight: 10
 
-  - name:
+
+
