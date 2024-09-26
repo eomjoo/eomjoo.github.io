@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
 
-secondary:
+
   - name: Tags
     identifier: tags
     weight: 30
