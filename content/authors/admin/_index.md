@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon:    // icon 안쓸듯
+  icon:    
 
 # Organizations/Affiliations
 #organizations:
