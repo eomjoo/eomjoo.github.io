@@ -1,9 +1,4 @@
-header:
-  navbar:
-    logo:
-      text: "My Site"  # 로고에 텍스트를 사용할 때
-      filename: "/images/logo.png"  # 로고로 사용할 이미지 경로
-      height: 40  # 로고의 높이 설정
+
 
 main:
   - name: "J0House"
