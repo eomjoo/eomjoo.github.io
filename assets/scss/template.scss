@@ -36,11 +36,10 @@ body {
 
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
-
-  display: flex;
+  display: flex !important;
+  justify-content: center !important; /* 가운데 정렬 */
+  align-items: center !important;
   background-color: #ffffff; /* 배경색 */
-  justify-content: center; /* 메뉴를 수평 가운데 정렬 */
-  align-items: center; /* 수직 중앙 정렬 */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
 }
 
