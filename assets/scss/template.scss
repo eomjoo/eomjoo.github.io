@@ -56,6 +56,12 @@ body {
   font-weight: bold; /* 글자 굵기 */
 }
 
+.navbar ul {
+  display: flex;
+  justify-content: center; /* 각 메뉴 항목을 수평 중앙에 정렬 */
+  gap: 20px; /* 메뉴 항목 사이의 간격 조절 */
+}
+
 /* 메뉴 호버 효과 */
 .navbar a:hover {
   background-color: rgba(0, 0, 0, 0.1); /* 배경색 변경 */
