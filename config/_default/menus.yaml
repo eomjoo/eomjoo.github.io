@@ -1,48 +1,43 @@
+header:
+  navbar:
+    logo:
+      text: "My Site"  # 로고에 텍스트를 사용할 때
+      filename: "/images/logo.png"  # 로고로 사용할 이미지 경로
+      height: 40  # 로고의 높이 설정
+
 main:
-  - name: J0House
+  - name: "J0House"
     url: /
     weight: 1
     identifier: "j0house"
 
-
-  - name: 자기소개
-    identifier: resume
+  - name: "자기소개"
+    identifier: "resume"
     weight: 30
 
-  - name: 프로젝트
-    identifier: project
+  - name: "프로젝트"
+    identifier: "project"
     weight: 40
 
-  - name: 공부 목표
+  - name: "공부 목표"
     weight: 50
 
-  - name: 취미
-    identifier: hobby
+  - name: "취미"
+    identifier: "hobby"
     weight: 60
 
-  - name: 서식지
+  - name: "서식지"
     weight: 70
 
-  - name: basketball
-    parent: hobby
+  - name: "basketball"
+    parent: "hobby"
     weight: 10
 
-  - name: running
-    parent: hobby
+  - name: "running"
+    parent: "hobby"
     weight: 20
 
-  - name: My page
-    parent: resume
-    url: about/
+  - name: "My page"
+    parent: "resume"
+    url: "about/"
     weight: 11
-
-    label:
-      text: "Home"
-      icon: /apple-touch-icon.png
-      iconHeight: 35
-
-
-
-
-
-
