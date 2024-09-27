@@ -5,7 +5,7 @@ defaultContentLanguage: "ko"
 header:
   navbar:
     logo:
-      filename: "/images/avatar.jpg"
+      filename: "/media/icon.png"
       height: 40
 
 
