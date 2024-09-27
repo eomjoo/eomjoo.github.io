@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 ---
+## 저는 현재 데이터베이스 연구실에서 공부를 하고 있습니다. 
 
-# Get in Touch
-
-Feel free to contact me using the form below.
+ 
