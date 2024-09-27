@@ -1,5 +1,51 @@
+baseURL: "https://eomjoo.github.io/"
+title: "My Awesome Site"
+defaultContentLanguage: "ko"
+
 header:
   navbar:
     logo:
       filename: "/images/avatar.jpg"
       height: 40
+
+
+menu:
+  main:
+    - name: "J0House"
+      url: "/"
+      weight: 1
+      identifier: "j0house"
+
+
+    - name: "자기소개"
+      identifier: "resume"
+      url: "about/"
+      weight: 30
+
+    - name: "프로젝트"
+      identifier: "project"
+      weight: 40
+
+    - name: "공부 목표"
+      weight: 50
+
+    - name: "취미"
+      identifier: "hobby"
+      weight: 60
+
+    - name: "서식지"
+      weight: 70
+
+    - name: "basketball"
+      parent: "hobby"
+      weight: 10
+
+    - name: "running"
+      parent: "hobby"
+      weight: 20
+
+    - name: "My page"
+      parent: "resume"
+      url: "about/"
+      weight: 11
+
