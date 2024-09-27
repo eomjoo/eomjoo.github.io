@@ -5,8 +5,9 @@ defaultContentLanguage: "ko"
 header:
   navbar:
     logo:
+      text: "eomjoo"
       filename: "/media/icon.png"
-      height: 40
+      height: 100g
 
 
 menu:
