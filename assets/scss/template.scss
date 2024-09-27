@@ -38,7 +38,7 @@ body {
 .navbar {
 
   display: flex;
-  justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
+  justify-content: space-; /* 왼쪽과 가운데로 공간 분배 */
   align-items: center; /* 수직 중앙 정렬 */
   background-color: #ffffff; /* 배경색 */
   padding: 0 20px; /* 좌우 패딩 */
@@ -71,14 +71,11 @@ body {
   font-size: 18px; /* 글자 크기 변경 */
 }
 
-/* 왼쪽 메뉴와 가운데 메뉴 각각 조정 */
-.navbar-left {
-    margin-right: 200;
-}
+
 
 .navbar-center {
   flex: 1; /* 가운데 메뉴에 더 많은 공간 할당 */
-  justify-content: right; /* 가운데 정렬 */
+  justify-content: center; /* 가운데 정렬 */
 }
 
 .menu-item-j0house a {
