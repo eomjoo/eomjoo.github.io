@@ -36,6 +36,7 @@ body {
 
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
+  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
   display: flex;
   justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
   align-items: center; /* 수직 중앙 정렬 */
@@ -44,37 +45,7 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
 }
 
-/* 왼쪽 메뉴 (J0House) */
-.navbar-left {
-  margin-right: auto; /* 왼쪽 정렬 */
-}
 
-/* 가운데 메뉴 (secondary) */
-.navbar-center {
-  display: flex;
-  justify-content: center;
-  flex: 1;
-}
-
-/* 메뉴 탭 간격 및 스타일 */
-.navbar-center ul,
-.navbar-left ul {
-  display: flex; /* Flexbox로 가로 배치 */
-  align-items: center; /* 수직 중앙 정렬 */
-  padding: 0;
-  margin: 0;
-}
-
-/* 각 메뉴 아이템 간격 조정 */
-.navbar ul li {
-  margin-right: 100px; /* 메뉴 아이템 간격 */
-  list-style: none; /* 기본 목록 스타일 제거 */
-}
-
-/* 마지막 메뉴 아이템 오른쪽 여백 제거 */
-.navbar ul li:last-child {
-  margin-right: 0;
-}
 
 /* 메뉴 링크 스타일 */
 .navbar a {
@@ -100,15 +71,6 @@ body {
   font-size: 18px; /* 글자 크기 변경 */
 }
 
-/* 왼쪽 메뉴와 가운데 메뉴 각각 조정 */
-.navbar-left {
-    margin-right: 200;
-}
-
-.navbar-center {
-  flex: 1; /* 가운데 메뉴에 더 많은 공간 할당 */
-  justify-content: right; /* 가운데 정렬 */
-}
 
 .menu-item-j0house a {
   font-size: 100px; /* J0House의 글자 크기 조정 */
