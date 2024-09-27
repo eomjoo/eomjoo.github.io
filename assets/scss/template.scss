@@ -36,7 +36,7 @@ body {
 
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+
   display: flex;
   justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
   align-items: center; /* 수직 중앙 정렬 */
@@ -69,6 +69,11 @@ body {
 
 .navbar .menu-item-resume {
   font-size: 18px; /* 글자 크기 변경 */
+}
+
+/* 왼쪽 메뉴와 가운데 메뉴 각각 조정 */
+.navbar-left {
+    margin-right: 200;
 }
 
 .navbar-center {
