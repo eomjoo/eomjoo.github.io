@@ -38,7 +38,7 @@ body {
 .navbar {
 
   display: flex;
-  justify-content: center; /* 왼쪽과 가운데로 공간 분배 */
+  justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
   align-items: center; /* 수직 중앙 정렬 */
   background-color: #ffffff; /* 배경색 */
   padding: 0 20px; /* 좌우 패딩 */
@@ -54,7 +54,6 @@ body {
   padding: 10px 15px; /* 링크 주위에 패딩 */
   font-size: 16px; /* 글꼴 크기 */
   font-weight: bold; /* 글자 굵기 */
-  margin: 0 15px; /* 메뉴 간의 간격 */
 }
 
 /* 메뉴 호버 효과 */
@@ -157,7 +156,7 @@ ul.network-icon .big-icon {
   max-height: 200px;
 }
 
-// Smaller Name and Role text on About page than in homepage `about.avatar` widget
+// Smaller Name and Role text on About page than in homepage about.avatar widget
 .wg-about .portrait-title h2 {
   font-size: 1rem;
 }
