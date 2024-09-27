@@ -2,5 +2,5 @@ header:
   navbar:
     logo:
       text: "My Site"
-      filename: "/admin/avatar.jpg"
+      filename: "/images/avatar.jpg"
       height: 40
