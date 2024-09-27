@@ -1,38 +1,39 @@
+menu:
+  main:
+    - name: "J0House"
+      url: "/"
+      weight: 1
+      identifier: "j0house"
+      pre: '<img src="/images/avatar.jpg" style="height: 40px;">'  # J0House 앞에 이미지 추가
 
+    - name: "자기소개"
+      identifier: "resume"
+      url: "about/"
+      weight: 30
 
-main:
-  - name: "J0House"
-    url: /
-    weight: 1
-    identifier: "j0house"
+    - name: "프로젝트"
+      identifier: "project"
+      weight: 40
 
-  - name: "자기소개"
-    identifier: "resume"
-    weight: 30
+    - name: "공부 목표"
+      weight: 50
 
-  - name: "프로젝트"
-    identifier: "project"
-    weight: 40
+    - name: "취미"
+      identifier: "hobby"
+      weight: 60
 
-  - name: "공부 목표"
-    weight: 50
+    - name: "서식지"
+      weight: 70
 
-  - name: "취미"
-    identifier: "hobby"
-    weight: 60
+    - name: "basketball"
+      parent: "hobby"
+      weight: 10
 
-  - name: "서식지"
-    weight: 70
+    - name: "running"
+      parent: "hobby"
+      weight: 20
 
-  - name: "basketball"
-    parent: "hobby"
-    weight: 10
-
-  - name: "running"
-    parent: "hobby"
-    weight: 20
-
-  - name: "My page"
-    parent: "resume"
-    url: "about/"
-    weight: 11
+    - name: "My page"
+      parent: "resume"
+      url: "about/"
+      weight: 11
