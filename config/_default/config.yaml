@@ -1,0 +1,5 @@
+header:
+  navbar:
+    logo:
+      filename: "/images/avatar.jpg"
+      height: 40

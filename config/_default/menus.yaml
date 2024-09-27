@@ -4,7 +4,7 @@ menu:
       url: "/"
       weight: 1
       identifier: "j0house"
-      pre: '<img src="/images/avatar.jpg" style="height: 40px;">'  # J0House 앞에 이미지 추가
+
 
     - name: "자기소개"
       identifier: "resume"
