@@ -38,8 +38,6 @@ body {
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
   display: flex;
-  justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
-  align-items: center; /* 수직 중앙 정렬 */
   background-color: #ffffff; /* 배경색 */
   padding: 0 20px; /* 좌우 패딩 */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
