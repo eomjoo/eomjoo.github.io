@@ -2,12 +2,7 @@ baseURL: "https://eomjoo.github.io/"
 title: "My Awesome Site"
 defaultContentLanguage: "ko"
 
-header:
-  navbar:
-    logo:
-      text: "eomjoo"
-      filename: "/media/icon.png"
-      height: 100g
+
 
 
 menu:
