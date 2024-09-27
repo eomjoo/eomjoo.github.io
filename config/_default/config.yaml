@@ -1,0 +1,4 @@
+logo:
+  text: "My Site"  # 로고에 텍스트를 사용할 때
+  filename: "/admin/avatar.jpg"  # 로고로 사용할 이미지 경로
+  height: 40  # 로고의 높이 설정
