@@ -11,7 +11,7 @@ header:
 
 menu:
   main:
-    - name: "J0House"
+    - name: "J0Hou"
       url: "/"
       weight: 1
       identifier: "j0house"
