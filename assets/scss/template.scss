@@ -36,9 +36,7 @@ body {
 
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
-  display: flex !important;
-  justify-content: center !important; /* 가운데 정렬 */
-  align-items: center !important;
+
   background-color: #ffffff; /* 배경색 */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
 }
@@ -47,10 +45,13 @@ body {
 
 /* 메뉴 링크 스타일 */
 .navbar a {
+  display: flex !important;
+  justify-content: center !important; /* 가운데 정렬 */
+  align-items: center !important;
   color: #333333; /* 텍스트 색상 */
   text-decoration: none; /* 밑줄 제거 */
   padding: 10px 15px; /* 링크 주위에 패딩 */
-  font-size: 16px; /* 글꼴 크기 */
+  font-size: 50px; /* 글꼴 크기 */
   font-weight: bold; /* 글자 굵기 */
 }
 
