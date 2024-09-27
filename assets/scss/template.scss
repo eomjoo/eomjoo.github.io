@@ -37,6 +37,9 @@ body {
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+  display: flex;
+  justify-content: space-between; /* 왼쪽과 가운데로 공간 분배 */
+  align-items: center; /* 수직 중앙 정렬 */
   background-color: #ffffff; /* 배경색 */
   padding: 0 20px; /* 좌우 패딩 */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
@@ -68,6 +71,10 @@ body {
   font-size: 18px; /* 글자 크기 변경 */
 }
 
+.navbar-center {
+  flex: 1; /* 가운데 메뉴에 더 많은 공간 할당 */
+  justify-content: right; /* 가운데 정렬 */
+}
 
 .menu-item-j0house a {
   font-size: 100px; /* J0House의 글자 크기 조정 */
