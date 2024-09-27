@@ -30,6 +30,7 @@ menu:
       weight: 60
 
     - name: "서식지"
+      url: "/contact"
       weight: 70
 
     - name: "basketball"
