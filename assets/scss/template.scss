@@ -45,8 +45,8 @@ body {
 /* 메뉴 링크 스타일 */
 .navbar a {
   display: flex !important;
-  justify-content: center !important; /* 가운데 정렬 */
-  align-items: center !important;
+  justify-content: right !important; /* 가운데 정렬 */
+  align-items: right !important;
   color: #333333; /* 텍스트 색상 */
   text-decoration: none; /* 밑줄 제거 */
   padding: 10px 15px; /* 링크 주위에 패딩 */
