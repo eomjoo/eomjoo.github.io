@@ -37,7 +37,6 @@ body {
 /* 네비게이션 바를 Flexbox 컨테이너로 설정 */
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-  display: flex;
   background-color: #ffffff; /* 배경색 */
   padding: 0 20px; /* 좌우 패딩 */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
