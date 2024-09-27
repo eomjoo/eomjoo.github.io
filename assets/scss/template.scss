@@ -74,8 +74,8 @@ body {
 
 
 .navbar-center {
-  flex: 1; /* 가운데 메뉴에 더 많은 공간 할당 */
-  justify-content: center; /* 가운데 정렬 */
+
+  justify-content: right; /* 가운데 정렬 */
 }
 
 .menu-item-j0house a {
