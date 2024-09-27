@@ -17,6 +17,6 @@ width="100%"
 height="450"
 frameborder="0"
 style="border:0"
-src="https://www.openstreetmap.org/export/embed.html?bbox=126.95665717124939%2C35.84997060606655%2C127.01891517639162%2C35.87880134514623&amp;layer=mapnik&amp;marker=35.86441302673038%2C127.00466117310524"
+src="https://map.naver.com/p/search/%EC%A0%84%EB%B6%81%EB%8C%80%20%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%207%ED%98%B8%EA%B4%80/place/17474997?c=15.00,0,0,0,dh&isCorrectAnswer=true"
 allowfullscreen>
 </iframe>
