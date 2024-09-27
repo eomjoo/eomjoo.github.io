@@ -35,9 +35,6 @@ body {
 
 
 .navbar {
-  display: flex !important;
-  justify-content: center !important; /* 메뉴 탭들을 가운데 정렬 */
-  align-items: center !important; /* 수직 중앙 정렬 */
   background-color: #ffffff; /* 배경색 */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
 }
@@ -55,7 +52,7 @@ body {
 }
 
 .navbar ul {
-  display: flex;
+  display: flex !im;
   justify-content: center; /* 각 메뉴 항목을 수평 중앙에 정렬 */
   gap: 20px; /* 메뉴 항목 사이의 간격 조절 */
 }
