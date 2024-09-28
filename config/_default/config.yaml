@@ -5,10 +5,6 @@ defaultContentLanguage: "ko"
 
 menu:
   main:
-    - name: "J0Hou"
-      url: "/"
-      weight: 1
-      identifier: "j0house"
 
 
     - name: "자기소개"
