@@ -28,7 +28,7 @@ menu:
       weight: 70
 
     - name: "basketball"
-      url: "/basektball"
+      url: "/basketball"
       parent: "hobby"
       weight: 10
 
