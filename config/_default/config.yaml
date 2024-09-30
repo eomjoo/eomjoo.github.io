@@ -26,7 +26,7 @@ menu:
       weight: 610
     - parent: Inform
       name: News
-      url: post
+      url: news
       weight: 620
     - parent: Inform
       name: Event
