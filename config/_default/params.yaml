@@ -90,6 +90,7 @@ features:
       category: ''
       category_id: ''
   search:
+    show_logo: true
     provider: ''
     algolia:
       app_id: ''
