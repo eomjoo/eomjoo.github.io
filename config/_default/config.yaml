@@ -40,7 +40,7 @@ menu:
 
     - name: "Contact"
       url: "/contact"
-      weight: 70
+      weight: 700
 
     - name: "basketball"
       url: "/basketball"
