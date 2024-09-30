@@ -3,6 +3,6 @@
 제가 제일 좋아하는 농구선수는 르브론선수로 아래 링크를 클릭하여 한번 느껴보세요
 ## [르브론 하이라이트](https://www.youtube.com/watch?v=mUyzyIgzVpI&ab_channel=NBA)
 
-![테스트 이미지](images/images.jpg)
+![](images/avatar.jpg)
 
 
