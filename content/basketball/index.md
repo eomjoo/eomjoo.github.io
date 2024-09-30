@@ -12,7 +12,14 @@
     </a>
   </div>
 
-  <div style="text-align: center;">
+  <div style="position: relative; text-align: center;">
     <img src="/images/lebron.jpg" alt="테스트 이미지" style="width: 100%; max-width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <!-- 투명도 레이어 -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); border-radius: 10px;">
+      <!-- 텍스트 오버레이 -->
+      <p style="color: white; font-size: 24px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); margin: 0;">
+        르브론 제임스
+      </p>
+    </div>
   </div>
 </div>
