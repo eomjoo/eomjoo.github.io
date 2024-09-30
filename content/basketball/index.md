@@ -1,3 +1,15 @@
+---
+title: Basketball
+
+# Listing view
+view: community/custom_card
+
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'basketball.jpg'
+---
+
 <div style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <h2 style="text-align: center; color: #333; margin-bottom: 20px;">농구를 좋아하는 이유</h2>
   <p style="font-size: 16px; line-height: 1.6; color: #555; text-align: center;">
