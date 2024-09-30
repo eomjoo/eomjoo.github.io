@@ -33,6 +33,7 @@ menu:
       weight: 10
 
     - name: "running"
+      url: "/running"
       parent: "hobby"
       weight: 20
 
