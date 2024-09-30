@@ -2,6 +2,7 @@
 그래서 최근에 농구 동호회에 가입하여 5대5 농구를 즐기고 있습니다 
 제가 제일 좋아하는 농구선수는 르브론선수로 아래 링크를 클릭하여 한번 느껴보세요
 ## [르브론 하이라이트](https://www.youtube.com/watch?v=mUyzyIgzVpI&ab_channel=NBA)
-![이미지 설명](/images/lebron.jpg)
+
+![테스트 이미지](images/images.jpg)
 
 
