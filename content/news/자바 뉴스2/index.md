@@ -7,4 +7,4 @@ date: 2024-09-30
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/spring.pdf" "newtab" >}}Download{{< /staticref >}} spring PDF.
 
-{{< icon name="link" pack="fas" >}} [외부 사이트 방문하기](https://www.inflearn.com/courses?s=%EA%B9%80%EC%98%81%ED%95%9C&srsltid=AfmBOoqpQxz0MIXCAj5WjkLmUwMUkPLM7IaTy_wXFnV1BX_p2lRZzcbn )
+{{< icon name="link" pack="fas" >}} [김영한 스프링 ](https://www.inflearn.com/courses?s=%EA%B9%80%EC%98%81%ED%95%9C&srsltid=AfmBOoqpQxz0MIXCAj5WjkLmUwMUkPLM7IaTy_wXFnV1BX_p2lRZzcbn )
