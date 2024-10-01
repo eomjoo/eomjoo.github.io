@@ -20,7 +20,7 @@ sections:
         align: center
         background:
           image:
-            filename: Ai.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -31,7 +31,7 @@ sections:
         align: center
         background:
           image:
-            filename: medical.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -42,7 +42,7 @@ sections:
         align: center
         background:
           image:
-            filename: healthcare.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -53,7 +53,7 @@ sections:
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -64,7 +64,7 @@ sections:
         align: center
         background:
           image:
-            filename: contents.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -75,7 +75,7 @@ sections:
         align: center
         background:
           image:
-            filename: mathematics.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -86,7 +86,7 @@ sections:
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -98,7 +98,7 @@ sections:
         align: center
         background:
           image:
-            filename: recruitment.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
