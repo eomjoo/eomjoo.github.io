@@ -6,7 +6,7 @@ banner:
   text_align: center
   overlay_color: "#000000"
   overlay_opacity: 0.5
-  height: '600px'
+  height: '1000px'
   parallax: true
 ---
 # 나의 러닝 이야기 🏃
