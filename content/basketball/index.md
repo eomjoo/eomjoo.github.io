@@ -1,6 +1,10 @@
 ---
 title: Basketball
 view: community/custom_card
+  - block: video
+    content:
+      url: 'https://www.youtube.com/embed/your-video-id'
+      caption: 'AI Research Overview'
 banner:
   caption: ''
   image: 'basketball.jpg'
