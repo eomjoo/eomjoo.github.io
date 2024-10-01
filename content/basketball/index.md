@@ -1,6 +1,6 @@
 ---
 title: Basketball
-view: community/custom_card
+view: community/custom_compact
 banner:
   caption: ''
   image: 'basketball.jpg'
