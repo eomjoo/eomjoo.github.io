@@ -19,28 +19,31 @@
 
 {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 
-<div class="custom-card">
+<div class="postcard">
   {{ with $resource }}
   {{ $image := .Resize "550x" }}
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="postcard-image">
     <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy">
   </a>
   {{ end }}
 
-  <div class="card-content">
-    <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
+  <div class="postcard-content">
+    <h4 class="postcard-title">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a>
+    </h4>
+
     {{ with $summary }}
-    <p>{{ . }}</p>
+    <p class="postcard-summary">{{ . }}</p>
     {{ end }}
 
     {{ if $item.Params.authors }}
-    <div class="article-metadata">
+    <div class="postcard-metadata">
       {{ partial "page_metadata_authors" $item }}
     </div>
     {{ end }}
 
     {{ if partial "functions/has_attachments" $item }}
-    <div class="btn-links">
+    <div class="postcard-links">
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
