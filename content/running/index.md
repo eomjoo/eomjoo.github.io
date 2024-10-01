@@ -1,5 +1,4 @@
 ---
-title: "🏃 나의 러닝 여정: 자유와 에너지를 만나다"
 view: community/custom_card
 banner:
   caption: "나만의 특별한 시간"
@@ -7,7 +6,7 @@ banner:
   text_align: center
   overlay_color: "#000000"
   overlay_opacity: 0.5
-  height: '400px'
+  height: '600px'
   parallax: true
 ---
 # 나의 러닝 이야기 🏃
