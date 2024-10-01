@@ -1,6 +1,7 @@
 ---
 title: Basketball
 view: community/custom_card
+type: landing
 banner:
   caption: ''
   image: 'basketball.jpg'
