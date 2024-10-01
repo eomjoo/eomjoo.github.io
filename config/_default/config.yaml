@@ -6,16 +6,18 @@ defaultContentLanguage: "ko"
 menu:
   main:
 
+    - name: 엄주영
+      weight: 400
 
-    - name: "자기소개"
-      identifier: "resume"
-      url: "about/"
-      weight: 30
+    - parent: 엄주영
+      name: 자기소개
+      url: about
+      weight: 410
 
-    - name: "프로젝트"
-      identifier: "project"
-      weight: 40
-
+    - parent: 엄주영
+      name: 자기소개2
+      url: about1
+      weight: 420
 
     - name: Inform
       url: post
@@ -52,8 +54,5 @@ menu:
       parent: "hobby"
       weight: 20
 
-    - name: "My page"
-      parent: "resume"
-      url: "about/"
-      weight: 11
+
 
