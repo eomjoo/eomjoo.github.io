@@ -1,6 +1,6 @@
 ---
-title: Basketball
-view: community/custom_card
+title: Running
+view: community/custom_compact
 banner:
   caption: ''
   image: 'running.jpg'
