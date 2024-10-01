@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 저는 주로 백엔드에서 자바 스프링에 관심이 있습니다 
 
 #interests:
 #- Artificial Intelligence
@@ -48,6 +48,19 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/jesuszero_/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@%EC%97%84%EC%A3%BC%EC%98%81-s6v
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100008250854279
+  - icon: google
+    icon_pack: fab
+    link: https://myaccount.google.com/?utm_source=OGB&utm_medium=app
+  - icon: discord
+    icon_pack: fab
+    link: eomjuyeong2883
+      
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
