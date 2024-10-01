@@ -8,15 +8,20 @@ sections:
 
   - block: features
     content:
-      title: 
-      text: <br><span style="font-size:125%">MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
+      title: 'MacsLAB 소개'
+      text: |
+        <br>
+        <div style="font-size: 1.25rem; line-height: 1.5; text-align: center;">
+          <strong>MacsLAB</strong>에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 <strong>AI</strong> 및 <strong>딥러닝</strong>을 활용한 연구를 수행하고 있습니다.<br>
+          의료 수학 및 AI 기반 연구를 함께 진행하며, <strong>풀스택 개발</strong> 및 <strong>AI</strong>를 활용한 어플리케이션 개발 등 실용적인 분야에 집중하고 있습니다.
+        </div>
 
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:90%">AI</span>
-        content: <span style="font-size:90%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:90%">
+      - title: "AI"
+        content: "의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발"
         align: center
         background:
           image:
@@ -24,10 +29,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#007BFF' # Slide 배경색을 더욱 눈에 띄는 색으로 변경
 
-      - title: <span style="font-size:90%">Medical AI</span>
-        content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
+      - title: "Medical AI"
+        content: "의료 AI를 통한 질병 진단 및 환경 개선"
         align: center
         background:
           image:
@@ -35,10 +40,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#28A745'
 
-      - title: <span style="font-size:90%">Healthcare</span>
-        content: <span style="font-size:90%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+      - title: "Healthcare"
+        content: "의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발"
         align: center
         background:
           image:
@@ -46,10 +51,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#17A2B8'
 
-      - title: <span style="font-size:90%">Aerospace</span>
-        content: <span style="font-size:90%">항공우주에 적용 가능한 특성화 AI 기술 개발</span>
+      - title: "Aerospace"
+        content: "항공우주에 적용 가능한 특성화 AI 기술 개발"
         align: center
         background:
           image:
@@ -57,10 +62,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#FFC107'
 
-      - title: <span style="font-size:90%">Contents AI</span>
-        content: <span style="font-size:90%">웹툰 및 컨텐츠 적용 가능한 특성화 AI 기술 개발</span>
+      - title: "Contents AI"
+        content: "웹툰 및 컨텐츠 적용 가능한 특성화 AI 기술 개발"
         align: center
         background:
           image:
@@ -68,10 +73,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#6F42C1'
 
-      - title: <span style="font-size:90%">Mathematics</span>
-        content: <span style="font-size:90%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: "Mathematics"
+        content: "AI와 관련된 수학 및 최적화 이론 연구"
         align: center
         background:
           image:
@@ -79,10 +84,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#E83E8C'
 
-      - title: <span style="font-size:90%">Development</span>
-        content: <span style="font-size:90%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+      - title: "Development"
+        content: "기반 기술을 활용한 Full-Stack 어플리케이션 개발"
         align: center
         background:
           image:
@@ -90,11 +95,10 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#FD7E14'
 
-
-      - title: <span style="font-size:90%">Recruit</span>
-        content: <span style="font-size:90%">Interested in MacsLAB?</span>
+      - title: "Recruit"
+        content: "Interested in MacsLAB?"
         align: center
         background:
           image:
@@ -102,32 +106,17 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
+          color: '#20C997'
         link:
           icon: user
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
-          text-color: '#000'
+          text: "Join Us"
+          text-color: '#FFFFFF'
           url: contact
 
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
+      slide_height: '400px'
       is_fullscreen: true
-      # Automatically transition through slides?
       loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
-
-  # - block: hero
-  #   content:
-  #     title: |
-  #       <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab</span>
-  #     image:
-  #       filename: welcome.jpg
-  #     text: |
-  #       <br>
-        
-  #       <span style="font-size:75%">전북대학교 의료 AI 및 계산 수학 연구실 (MACS Lab) 홈페이지에 오신 것을 환영합니다. MACS에서는 의료, 항공, 국방 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
-  
+      interval: 2000 # 슬라이드 전환 시간을 약간 늘려 편안한 시각 효과를 제공
 ---
