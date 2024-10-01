@@ -27,15 +27,12 @@ bio: 저는 주로 백엔드에서 자바 스프링에 관심이 있습니다
 
 education:
  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 전주 중앙중학교
+    year: 2013 ~ 2015
+  - course: 전주 신흥고등학교
+    year: 2016 ~ 2018
+  - course: 전주 전북대학교
+    year: 2020 ~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
