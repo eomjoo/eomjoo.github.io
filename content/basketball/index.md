@@ -1,37 +1,10 @@
 ---
 title: Basketball
 view: community/custom_card
-type: landing
 banner:
   caption: ''
   image: 'basketball.jpg'
 
-sections:
-  - block: features
-    content:
-      title: "MacsLAB 소개"
-      text: |
-        MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 실용적인 분야에도 집중하고 있습니다.
-
-  - block: slider
-    content:
-      slides:
-        - title: "AI"
-          content: "의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발"
-          align: center
-          background:
-            image:
-              filename: coding.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-        # ... (다른 슬라이드들도 동일한 방식으로 유지)
-      design:
-        slide_height: '350px'
-        is_fullscreen: true
-        loop: true
-        interval: 3000
 
 ---
 
