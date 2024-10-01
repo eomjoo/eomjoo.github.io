@@ -1,65 +1,48 @@
 ---
-title: Running
-view: community/custom_card
-banner:
-  caption: ''
-  image: 'running.jpg'
+# Leave the homepage title empty to use the site title
+title:
+date: 2024-03-25
+type: landing
 
 sections:
 
-  - block: slider
+  - block: features
     content:
-      slides:
-        - title: "러닝"
-          content: "하루에 5km씩 달리기를 시작했습니다!"
-          align: center
-          background:
-            image:
-              filename: 'coding.jpg'
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#000'
+      title: 
+      text: <br><span style="font-size:125%">MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
 
-        - title: "운동의 즐거움"
-          content: "꾸준한 운동이 가져다주는 즐거움을 느껴보세요."
-          align: center
-          background:
-            image:
-              filename: 'coding.jpg'
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#000'
+  - block: gallery
+    content:
+      title: "연구 이미지 갤러리"
+      description: "MacsLAB의 다양한 연구 이미지를 확인해보세요."
+      items:
+        - image:
+            filename: "coding.jpg"
+            alt: "AI 연구"
+            focal_point: "center"
+          caption: "AI 연구 이미지 1"
 
-        - title: "러닝의 결과"
-          content: "꾸준한 운동으로 건강을 유지하세요!"
-          align: center
-          background:
-            image:
-              filename: 'codingg.jpg'
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#000'
+        - image:
+            filename: "coding.jpg"
+            alt: "의료 AI"
+            focal_point: "center"
+          caption: "의료 AI 이미지 2"
+
+        - image:
+            filename: "coding.jpg"
+            alt: "헬스케어"
+            focal_point: "center"
+          caption: "헬스케어 이미지 3"
+
+        - image:
+            filename: "coding.jpg"
+            alt: "항공우주"
+            focal_point: "center"
+          caption: "항공우주 이미지 4"
 
     design:
-      slide_height: '400px'
-      is_fullscreen: false
-      loop: true
-      interval: 3000
+      columns: 4
+      spacing: small
+
 ---
 
-## 나의 러닝 이야기 🏃
-저는 중학교 1학년 때부터 농구를 시작하여 지금까지 즐겨왔습니다. 운동 중에서도 **농구**가 가장 자신 있고, 즐기는 종목입니다.
-
-주로 NBA 미국 농구를 즐겨보며, 그중에서도 제가 가장 좋아하는 선수는 **르브론 제임스**입니다. 이 선수에 대해 더 알고 싶다면 아래 링크를 클릭해보세요!
-
-[르브론 하이라이트 보기 🎥](https://www.youtube.com/watch?v=mUyzyIgzVpI&ab_channel=NBA)
-
-![르브론 제임스](/images/lebron.jpg)
-
-### 함께 농구를 하고 싶으신 분은? 📞
-저와 함께 농구를 하고 싶다면 아래 번호로 연락주세요!
-
-**010-6643-8607**
