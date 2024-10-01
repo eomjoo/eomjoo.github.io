@@ -1,11 +1,15 @@
 ---
-title: Running
+title: "🏃 나의 러닝 여정: 자유와 에너지를 만나다"
 view: community/custom_card
 banner:
-  caption: ''
+  caption: "러닝으로 맞이하는 새로운 아침, 나만의 특별한 시간"
   image: 'running.jpg'
+  text_align: center
+  overlay_color: "#000000"
+  overlay_opacity: 0.5
+  height: '400px'
+  parallax: true
 ---
-
 # 나의 러닝 이야기 🏃
 
 저는 중학교 1학년 때부터 러닝을 시작하여 지금까지 즐겨왔습니다. 러닝은 단순한 운동이 아니라, 저에게는 일상 속에서 스트레스를 해소하고 에너지를 재충전하는 소중한 시간입니다. 러닝을 하면서 맞바람을 느끼고, 몸의 모든 세포가 깨어나는 것을 느낄 때마다 삶의 활력을 얻곤 합니다.
