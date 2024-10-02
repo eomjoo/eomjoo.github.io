@@ -5,6 +5,10 @@ title: 엄주영
 # Is this the primary user of the site?
 superuser: true
 
+organizations:
+  - name: 전북대학교 IT정보공학과
+    url: 'https://csai.jbnu.ac.kr/csai/index.do'
+
 # Role/position
 role: ''
 
