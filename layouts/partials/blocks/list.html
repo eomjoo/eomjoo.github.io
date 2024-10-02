@@ -1,0 +1,26 @@
+<div class="custom-list">
+  {{ range .items }}
+  <div class="list-item" style="margin-bottom: 1rem;">
+
+    <!-- Icon -->
+    {{ if .icon }}
+    <i class="icon {{ .icon_pack }} fa-{{ .icon }}" style="font-size: 2rem; color: #007BFF;"></i>
+    {{ end }}
+
+    <!-- Title -->
+    <h3 style="margin-top: 0.5rem;">
+      {{ if .url }}
+      <a href="{{ .url }}" style="text-decoration: none; color: inherit;">{{ .title }}</a>
+      {{ else }}
+      {{ .title }}
+      {{ end }}
+    </h3>
+
+    <!-- Description -->
+    {{ if .description }}
+    <p style="color: #555;">{{ .description }}</p>
+    {{ end }}
+
+  </div>
+  {{ end }}
+</div>
