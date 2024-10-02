@@ -1,8 +1,23 @@
 ---
-title: "Upcoming Events"
-date: 2024-03-25
-type: "event"
----
+title: Teaching
+summary: My courses
+type: landing
 
-이 페이지는 향후 이벤트에 대한 목록입니다.
-1111111111111
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
+
+sections:
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
+      columns: 2
+---
