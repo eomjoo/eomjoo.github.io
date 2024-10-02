@@ -32,7 +32,7 @@ menu:
       weight: 620
     - parent: Inform
       name: Event
-      url: event
+      url: teaching
       weight: 630
 
 
