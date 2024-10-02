@@ -30,12 +30,14 @@ bio: 저는 주로 백엔드에서 자바 스프링에 관심이 있습니다
 #- Information Retrieval
 
 education:
+
  courses:
   - course: 전주 중앙중학교
     year: 2013 ~ 2015
   - course: 전주 신흥고등학교
     year: 2016 ~ 2018
-  - course: 전주 전북대학교
+  - course: IT정보공학과
+    institution: 전북대학교
     year: 2020 ~
 
 # Social/Academic Networking
@@ -62,6 +64,8 @@ social:
     icon_pack: fab
     link: eomjuyeong2883
       
+
+    highlight_name: true
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -76,6 +80,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-
+저는 전북대학교 IT정보공학과에 재학 중인 20학번 엄주영입니다. 현재는 백엔드 쪽에서 스프링에 관심이 공부중에 있습니다. 스프링을 이용하여 간단한 웹페이지를 만들어 봤습니다.  스프링 공부를 늦게 시작하여 아직 스프링쪽과 관련된 프로젝트를 해보지는 않았지만  3학년 2학기 웹서비스설계 수업을 계기로 웹쪽의 전반적인 개념을 공부하고 여러 프로젝트를 수행할 생각입니다.  
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
