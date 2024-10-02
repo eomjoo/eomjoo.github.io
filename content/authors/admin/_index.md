@@ -1,91 +1,186 @@
 ---
 # Display name
-title: 엄주영
+title: 吳健雄
+
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
+
+# Full name (for SEO)
+first_name: Shiung Wu
+last_name: Chien
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: Chief Scientist
+
+# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 전북대학교 IT정보공학과
-    url: 'https://csai.jbnu.ac.kr/csai/index.do'
+  - name: OpenAI
+    url: https://openai.com/
 
-# Role/position
-role: ''
-
-# Status emoji
-status:
-  icon:    
-
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: 저는 스프링 공부에 관심이 있습니다
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - 자바
-  - 스프링
-  - 인공지능
-  - 개발  
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
- courses:
-  - course: 전주 중앙중학교
-    year: 2013 ~ 2015
-  - course: 전주 신흥고등학교
-    year: 2016 ~ 2018
-  - course: IT정보공학과
-    institution: 전북대학교
-    year: 2020 ~
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/eomjoo
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/jesuszero_/
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/@%EC%97%84%EC%A3%BC%EC%98%81-s6v
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/profile.php?id=100008250854279
-  - icon: google
-    icon_pack: fab
-    link: https://myaccount.google.com/?utm_source=OGB&utm_medium=app
-  - icon: discord
-    icon_pack: fab
-    link: eomjuyeong2883
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-    highlight_name: true
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-저는 전북대학교 IT정보공학과에 재학 중인 20학번 엄주영입니다. 현재는 백엔드 쪽에서 스프링에 관심이 공부중에 있습니다. 스프링을 이용하여 간단한 웹페이지를 만들어 봤습니다.  스프링 공부를 늦게 시작하여 아직 스프링쪽과 관련된 프로젝트를 해보지는 않았지만  3학년 2학기 웹서비스설계 수업을 계기로 웹쪽의 전반적인 개념을 공부하고 여러 프로젝트를 수행할 생각입니다.  
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+## About Me
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
