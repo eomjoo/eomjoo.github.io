@@ -19,5 +19,5 @@ sections:
           - teaching
     design:
       view: card
-      columns: 2
+      columns: 1
 ---
