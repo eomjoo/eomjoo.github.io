@@ -39,10 +39,7 @@ header:
     show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: true
-    logo:
-      # Logo filename in `assets/media/` folder
-      filename: "lebron.jpg"
+    highlight_active_link: false
 
 # Site footer
 
