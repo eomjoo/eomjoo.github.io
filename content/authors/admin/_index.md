@@ -22,15 +22,13 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 저는 주로 백엔드에서 자바 스프링에 관심이 있습니다
+bio: 저는 스프링 공부에 관심이 있습니다
 
 interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
+  - 자바
+  - 스프링
+  - 인공지능
+  - 개발  
 
 #interests:
 #- Artificial Intelligence
