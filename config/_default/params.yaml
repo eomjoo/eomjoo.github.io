@@ -18,15 +18,15 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'MacsLAB'
-    description: 'MacsLAB in Jeonbuk National Univ.'
+    description: '전북대 엄주영'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: '전북대 엄주영'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: '전북대 엄주영'
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: '전북대 엄주영'
     baidu: ''
 
 # Site header
