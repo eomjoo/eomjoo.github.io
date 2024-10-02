@@ -1,13 +1,14 @@
 ---
-- block: collection
+block:
+- type: collection
   id: eomjoo
   content:
-    title: Featured Publications
+  title: Featured Publications
   filters:
-    folders:
-      - publication
-    featured_only: true
+  folders:
+  - publication
+  featured_only: true
   design:
-    view: article-grid
-    columns: 2
+  view: article-grid
+  columns: 2
 ---
