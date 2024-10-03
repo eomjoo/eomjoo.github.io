@@ -31,25 +31,33 @@ menu:
       url: news
       weight: 220
 
-    - parent: Inform
-      name: Event
-      url: teaching
-      weight: 230
+    - name: 코딩 교육
+      weight: 300
+
+    - parent: 코딩 교육
+      name: 자바스크립트
+      url: teaching/js
+      weight: 310
+
+    - parent: 엄주영
+      name: 자기소개
+      url: teaching/python
+      weight: 320
 
     - name: "취미"
       identifier: "hobby"
-      weight: 300
+      weight: 400
 
     - name: "basketball"
       url: "/basketball"
       parent: "hobby"
-      weight: 310
+      weight: 410
 
     - name: "running"
       url: "/running"
       parent: "hobby"
-      weight: 320
+      weight: 420
 
     - name: "Contact"
       url: "/contact"
-      weight: 400
+      weight: 500
