@@ -2,57 +2,54 @@ baseURL: "https://eomjoo.github.io/"
 title: "My Awesome Site"
 defaultContentLanguage: "ko"
 
-
 menu:
   main:
-
     - name: 엄주영
-      weight: 400
+      weight: 100
 
     - parent: 엄주영
       name: 자기소개
       url: about
-      weight: 410
+      weight: 110
 
     - parent: 엄주영
       name: 자기소개2
       url: about1
-      weight: 420
+      weight: 120
 
     - name: Inform
       url: post
-      weight: 600
+      weight: 200
+
     - parent: Inform
       name: Notifications
       url: notification
-      weight: 610
+      weight: 210
+
     - parent: Inform
       name: News
       url: news
-      weight: 620
+      weight: 220
+
     - parent: Inform
       name: Event
       url: teaching
-      weight: 630
-
+      weight: 230
 
     - name: "취미"
       identifier: "hobby"
-      weight: 60
-
-    - name: "Contact"
-      url: "/contact"
-      weight: 700
+      weight: 300
 
     - name: "basketball"
       url: "/basketball"
       parent: "hobby"
-      weight: 10
+      weight: 310
 
     - name: "running"
       url: "/running"
       parent: "hobby"
-      weight: 20
+      weight: 320
 
-
-
+    - name: "Contact"
+      url: "/contact"
+      weight: 400
