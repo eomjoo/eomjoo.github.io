@@ -36,12 +36,12 @@ menu:
 
     - parent: 코딩 교육
       name: 자바스크립트
-      url: teaching
+      url: teaching/js
       weight: 310
 
-    - parent: 코딩교육
+    - parent: 코딩 교육
       name: 파이썬
-      url: teaching
+      url: teaching/python
       weight: 320
 
     - name: "취미"
