@@ -39,8 +39,8 @@ menu:
       url: teaching/js
       weight: 310
 
-    - parent: 엄주영
-      name: 자기소개
+    - parent: 코딩교육
+      name: 파이썬
       url: teaching/python
       weight: 320
 
