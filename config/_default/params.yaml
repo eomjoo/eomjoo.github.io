@@ -10,7 +10,10 @@ appearance:
   theme_day: minimal
   font: native
   font_size: L
-  color: emerald
+  color: custom
+assets:
+  css:
+    - css/custom.css  # 생성한 custom.css 파일을 추가
 
 # SEO
 marketing:
