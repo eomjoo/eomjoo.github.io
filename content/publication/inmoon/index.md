@@ -37,7 +37,8 @@ url_source: 'https://www.yes24.com/Product/Search?domain=BOOK&query=%EC%88%98%ED
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: '수학 인문으로 수를 읽다'
+  image: 'enjoy.jpg'
   focal_point: ""
   preview_only: false
 

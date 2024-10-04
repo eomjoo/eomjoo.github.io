@@ -39,7 +39,7 @@ url_source: 'https://www.yes24.com/Product/Goods/103168902'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: '수학비타민'
-  image: 'mathvit.png' 
+  image: 'mathvit.jpg'
   focal_point: ""
   preview_only: false
 
