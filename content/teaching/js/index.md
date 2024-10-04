@@ -1,6 +1,6 @@
 ---
-title: Learn Java
-summary: Easily learn Java in 10 minutes!
+title: Learn JavaScript
+summary: Easily learn JavaScript in 10 minutes!
 date: 2023-10-24
 type: docs
 featured: true
