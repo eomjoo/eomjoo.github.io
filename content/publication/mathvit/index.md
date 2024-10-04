@@ -14,15 +14,14 @@ publishDate: "2016"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 수학으로 한 걸음 더, 수학에서 한 걸음 더! 재밌는 수학 이야기에 교과와 연계된 수학 원리가 녹아들어 있어, 읽다 보면 알게 모르게 수학 시간이 즐거워진다.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 수학으로 한 걸음 더, 수학에서 한 걸음 더! 재밌는 수학 이야기에 교과와 연계된 수학 원리가 녹아들어 있어, 읽다 보면 알게 모르게 수학 시간이 즐거워진다.
 
 tags:
 - Source Themes

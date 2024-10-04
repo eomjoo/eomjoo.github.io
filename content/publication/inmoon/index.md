@@ -11,17 +11,15 @@ publishDate: "2016"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: 『수학, 인문으로 수를 읽다』는 수학의 근본 개념과 수학이란 학문에 깃든 흥미로운 요소를 타 학문과 연계해서 살펴본 이 책은 수학을 공부하는 학생들에게, 수학에 대해 알고 싶지만 쉽게 다가가지 못했던 성인들에게 훌륭한 길잡이가 되어줄 것이다.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 『수학, 인문으로 수를 읽다』는 수학의 근본 개념과 수학이란 학문에 깃든 흥미로운 요소를 타 학문과 연계해서 살펴본 이 책은 수학을 공부하는 학생들에게, 수학에 대해 알고 싶지만 쉽게 다가가지 못했던 성인들에게 훌륭한 길잡이가 되어줄 것이다.
+  
 tags:
 - Large Language Models
 
@@ -58,10 +56,4 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
