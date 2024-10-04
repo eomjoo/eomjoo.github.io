@@ -59,7 +59,17 @@ menu:
       weight: 420
 
     - name: "Contact"
+      identifier: "contact"
       url: "/contact"
       weight: 500
 
+    - name: "contact"
+      url: "/contact"
+      parent: "contact"
+      weight: 510
+
+    - name: "practice"
+      url: "/publication"
+      parent: "contact"
+      weight: 520
 color: emerald
