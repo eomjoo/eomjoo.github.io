@@ -21,7 +21,7 @@ content:
 
 design:
   columns: '2' # Two columns layout for a balanced view
-  view: citation # Card view for displaying as cards
+  view: compact # Card view for displaying as cards
   flip_alt_rows: true
   background: {}
   spacing:
