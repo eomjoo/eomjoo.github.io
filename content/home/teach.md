@@ -13,6 +13,6 @@ sections:
           - teaching
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: card
+      columns: 1
 ---
