@@ -36,8 +36,9 @@ url_source: 'https://www.yes24.com/Product/Search?domain=BOOK&query=%EC%88%98%ED
 image:
   caption: '수학 인문으로 수를 읽다'
   filename: 'math.jpg'
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
+  style: "object-fit: contain; width: 100%;"  # 이미지 비율과 크기 조정
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

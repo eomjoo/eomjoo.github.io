@@ -44,8 +44,9 @@ url_source: 'https://www.yes24.com/Product/Goods/243767'
 image:
   caption: '학문의 즐거움'
   filename: 'enjoy.jpg'
-  focal_point: ''
+  focal_point: 'center'
   preview_only: false
+  style: "object-fit: contain; width: 100%;"  # 이미지 비율과 크기 조정
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

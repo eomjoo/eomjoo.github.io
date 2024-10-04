@@ -37,8 +37,9 @@ url_source: 'https://www.yes24.com/Product/Goods/103168902'
 image:
   caption: '수학비타민'
   filename: 'mathvit.jpg'
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
+  style: "object-fit: contain; width: 100%;"  # 이미지 비율과 크기 조정
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
