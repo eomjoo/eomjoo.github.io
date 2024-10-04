@@ -24,11 +24,9 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: 인내와 끈기로 하버드의 박사학위, 수학의 노벨상이라 불리는 필드상을 수상하고 학문의 즐거움을 느끼며, 업적을 이루어낸 과정에서 인생의 참 의미를 깨달은 한 평범한 수학교수의 진실한 고백.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 인내와 끈기로 하버드의 박사학위, 수학의 노벨상이라 불리는 필드상을 수상하고 학문의 즐거움을 느끼며, 업적을 이루어낸 과정에서 인생의 참 의미를 깨달은 한 평범한 수학교수의 진실한 고백.
 tags:
   - Large Language Models
 
