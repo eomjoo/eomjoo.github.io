@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: [학문의+즐거움.hwp.pdf](%ED%95%99%EB%AC%B8%EC%9D%98%2B%EC%A6%90%EA%B1%B0%EC%9B%80.hwp.pdf)
+url_pdf: '학문의+즐거움.hwp.pdf'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
