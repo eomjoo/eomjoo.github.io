@@ -21,7 +21,7 @@ content:
 
 design:
   columns: '2' # Two columns layout for a balanced view
-  view: gridg # Card view for displaying as cards
+  view: grid # Card view for displaying as cards
   flip_alt_rows: true
   background: {}
   spacing:
