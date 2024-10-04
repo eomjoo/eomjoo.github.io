@@ -11,9 +11,7 @@ sections:
       filters:
         folders:
           - teaching
-        featured_only: true
     design:
       view: card
       columns: 1
 ---
-asdasdasdasd
