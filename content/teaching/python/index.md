@@ -55,3 +55,8 @@ for i in range(5):
 - **데이터 분석과 과학:**  NumPy, Pandas, Matplotlib, SciPy 등은 데이터 분석, 시각화 및 과학 계산을 위한 강력한 라이브러리입니다.
 - **인공지능 및 머신러닝:**  TensorFlow, PyTorch, scikit-learn 등의 라이브러리를 사용하여 복잡한 모델과 알고리즘을 구현할 수 있습니다.
 - **웹 개발:** Flask와 Django는 Python 기반의 웹 프레임워크로, 웹 애플리케이션을 빠르고 쉽게 구축할 수 있도록 도와줍니다.
+
+
+#### 다음 유튜브를 시청하시면 더 빨리  자바를 익히실 수 있습니다
+
+{{< youtube T6z-0dpXPvU >}}
