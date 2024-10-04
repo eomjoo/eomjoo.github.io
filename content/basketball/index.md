@@ -15,7 +15,7 @@ banner:
 Lebron James라는 선수가 궁금하다면 아래 링크를 클릭해주세요!
 
 [르브론 하이라이트](https://www.youtube.com/watch?v=mUyzyIgzVpI&ab_channel=NBA)
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube b117a8_jALE >}}
 
 ![르브론 제임스](/images/lebron.jpg)
 
