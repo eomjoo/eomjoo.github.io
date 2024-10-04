@@ -36,7 +36,7 @@ menu:
 
     - parent: 코딩 교육
       name: 자바스크립트
-      url: teaching
+      url: teaching/js
       weight: 310
 
     - parent: 코딩 교육
