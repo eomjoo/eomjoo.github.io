@@ -13,6 +13,6 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: card
       columns: 2
 ---
