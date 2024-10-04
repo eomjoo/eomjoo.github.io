@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "수학 인문으로 수를 읽다"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: [수학+인문으로+수를+읽다.hwp.pdf](%EC%88%98%ED%95%99%2B%EC%9D%B8%EB%AC%B8%EC%9C%BC%EB%A1%9C%2B%EC%88%98%EB%A5%BC%2B%EC%9D%BD%EB%8B%A4.hwp.pdf)
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'

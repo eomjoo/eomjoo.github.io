@@ -1,12 +1,11 @@
 ---
-title: 'An example conference paper'
+title: '학문의 즐거움'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -44,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: [학문의+즐거움.hwp.pdf](%ED%95%99%EB%AC%B8%EC%9D%98%2B%EC%A6%90%EA%B1%B0%EC%9B%80.hwp.pdf)
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

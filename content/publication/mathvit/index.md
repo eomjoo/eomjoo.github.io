@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "수학비타민"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -33,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: [수학비타민.hwp.pdf](%EC%88%98%ED%95%99%EB%B9%84%ED%83%80%EB%AF%BC.hwp.pdf)
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
