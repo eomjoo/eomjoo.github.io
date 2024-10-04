@@ -60,7 +60,6 @@ menu:
 
     - name: "Contact"
       identifier: "contact"
-      url: "/contact"
       weight: 500
 
     - name: "contact"
