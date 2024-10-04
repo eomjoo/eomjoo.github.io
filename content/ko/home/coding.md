@@ -20,7 +20,7 @@ content:
   filter_default: 0
 
 design:
-  columns: '2' # Two columns layout for a balanced view
+  columns: '1' # Two columns layout for a balanced view
   view: card # Card view for displaying as cards   #compact!!!!!!!!!
   flip_alt_rows: true
   background: {}
