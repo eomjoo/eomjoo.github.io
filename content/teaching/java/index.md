@@ -2,7 +2,7 @@
 title: Learn Java
 summary: Easily learn Java in 10 minutes!
 date: 2023-10-24
-type: docs
+type: "teaching"
 featured: true
 math: false
 tags:
