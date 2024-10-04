@@ -44,6 +44,11 @@ menu:
       url: teaching/python
       weight: 320
 
+    - parent: 코딩 교육
+      name: 자바
+      url: teaching/java
+      weight: 330
+
     - name: "취미"
       identifier: "hobby"
       weight: 400
