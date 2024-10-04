@@ -1,12 +1,12 @@
 ---
 title: Learn Python
-summary: Easily learn Java in 10 minutes!
+summary: Easily learn Python in 10 minutes!
 date: 2023-10-24
 type: docs
 featured: true
 math: false
 tags:
-  - Java
+  - Python
 image:
   caption: 'Python'
   filename: 'python.jpg'
@@ -15,131 +15,43 @@ image:
   style: "object-fit: contain; width: 100%;"  # 이미지 비율과 크기 조정
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+Python은 배우기 쉽고 강력한 프로그래밍 언어로, 다양한 용도로 사용됩니다. 이 섹션에서는 Python의 주요 특징, 기초 문법, 그리고 응용 기술에 대해 알아보겠습니다.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Python의 특징
+- **간결하고 읽기 쉬운 문법:** Python은 직관적이고 간단한 문법을 제공하여 초보자도 쉽게 배울 수 있습니다.
+- **다양한 라이브러리:** 과학, 데이터 분석, 웹 개발 등 다양한 분야에서 사용할 수 있는 풍부한 라이브러리를 제공합니다.
+- **다중 패러다임:** 객체 지향, 절차적, 함수형 프로그래밍을 지원합니다.
+- **동적 타이핑:** 변수의 데이터 타입을 명시적으로 선언하지 않아도 되며, 실행 시에 타입을 결정합니다.
+- **광범위한 응용 분야:** 웹 개발, 데이터 과학, 인공지능, 자동화 등 다양한 영역에서 활용됩니다.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-{{< youtube D2vj0WcvH5c >}}
-
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
-
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
+## 기초 문법
+### 1. Hello World
+Python의 기본 프로그램 구조는 매우 간단합니다. 다음은 `print` 함수를 이용한 예제입니다.
 
 ```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
+print("Hello, World!")
+
+
+number = 10          # 정수형
+price = 19.99        # 실수형
+letter = 'A'         # 문자형
+is_python_fun = True # 불린형
+text = "Python Programming" # 문자열
+
+
+//조건문
+number = 10
+if number > 0:
+    print("number는 양수입니다.")
+else:
+    print("number는 음수입니다.")
+
+//반복문
+for i in range(5):
+    print(f"Count: {i}")
 ```
 
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+### 파이썬 응용 기술
+- **데이터 분석과 과학:**  NumPy, Pandas, Matplotlib, SciPy 등은 데이터 분석, 시각화 및 과학 계산을 위한 강력한 라이브러리입니다.
+- **인공지능 및 머신러닝:**  TensorFlow, PyTorch, scikit-learn 등의 라이브러리를 사용하여 복잡한 모델과 알고리즘을 구현할 수 있습니다.
+- **웹 개발:** Flask와 Django는 Python 기반의 웹 프레임워크로, 웹 애플리케이션을 빠르고 쉽게 구축할 수 있도록 도와줍니다.
