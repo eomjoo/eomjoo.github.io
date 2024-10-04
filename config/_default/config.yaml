@@ -71,4 +71,17 @@ menu:
       url: "/publication"
       parent: "contact"
       weight: 520
+
+    - name: 만남
+      weight: 500
+
+    - parent: 엄주영
+      name: 만남1
+      url: contact
+      weight: 510
+
+    - parent: 엄주영
+      name: 연습
+      url: publication
+      weight: 520
 color: emerald
