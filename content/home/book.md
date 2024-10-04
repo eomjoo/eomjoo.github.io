@@ -1,4 +1,5 @@
 ---
+
 # A section created with the Portfolio widget.
 # This section displays content from `content/publication/`.
 widget: portfolio
@@ -9,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: ''
+title: '독서 활동'
 subtitle: ''
 
 content:
