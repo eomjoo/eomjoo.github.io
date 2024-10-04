@@ -47,7 +47,7 @@ url_source: 'https://www.yes24.com/Product/Goods/243767'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://www.yes24.com/Product/Viewer/Preview/243767)'
   focal_point: ''
   preview_only: false
 
