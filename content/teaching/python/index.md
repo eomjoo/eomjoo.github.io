@@ -9,7 +9,7 @@ tags:
   - Python
 image:
   caption: 'Python'
-  filename: 'python.jpg'
+  filename: 'pthon.jpg'
   focal_point: 'center'
   preview_only: false
   style: "object-fit: contain; width: 100%;"  # 이미지 비율과 크기 조정
