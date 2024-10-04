@@ -1,25 +1,59 @@
 # Essentially Minimal theme but with constant home section bg color.
-name = "Starter Blog"
+name = "custom"
+
+# Theme metadata
+name = "Custom"
 
 [light]
-  # Primary
-  primary = "#2962ff"
+# Primary
+primary = "#1565c0"  # 진한 파란색 (이미지의 색상)
 
-  # Menu
-  menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+# Links
+link = "#3273dc"  # 밝은 파란색 링크
+link_hover = "#2b2b2b"  # 어두운 회색으로 링크 호버
 
-  # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+# Menu
+menu_primary = "#ffffff"  # 메뉴 배경: 흰색
+menu_text = "#34495e"  # 메뉴 텍스트: 회색
+menu_text_active = "#2962ff"  # 활성 메뉴 텍스트: 밝은 파란색
+menu_title = "#2b2b2b"  # 메뉴 타이틀: 어두운 회색
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"  # 짝수 섹션: 흰색
+home_section_even = "rgb(247, 247, 247)"  # 홀수 섹션: 연한 회색
+
+# Background
+background = "#ffffff"  # 전체 배경: 흰색
+
+# Cards
+card_text = "#000000"  # 카드 텍스트: 검은색
+card_background = "#ffffff"  # 카드 배경: 흰색
+card_text_color_in_site_footer = "#ffffff"  # 푸터의 카드 텍스트 색상: 흰색
+card_border_color = "rgba(0,0,0,0.1)"  # 카드 테두리: 연한 검은색
 
 [dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
+# Primary
+primary = "#bbdefb"  # 밝은 파란색
+
+# Links
+link = "#bbdefb"  # 링크: 밝은 파란색
+link_hover = "#bbdefb"  # 링크 호버: 밝은 파란색
+
+# Background
+background = "rgb(26, 32, 44)"  # 어두운 배경: 어두운 회색
+
+# Home sections
+home_section_odd = "rgb(26, 32, 44)"  # 섹션 배경: 어두운 회색
+home_section_even = "rgb(26, 32, 44)"  # 섹션 배경: 어두운 회색
+
+# Menu
+menu_primary = "rgb(26, 32, 44)"  # 메뉴 배경: 어두운 회색
+menu_text = "#ffffff"  # 메뉴 텍스트: 흰색
+menu_text_active = "#bbdefb"  # 활성 메뉴 텍스트: 밝은 파란색
+menu_title = "#bbdefb"  # 메뉴 타이틀: 밝은 파란색
+
+# Cards
+card_text = "#ffffff"  # 카드 텍스트: 흰색
+card_background = "rgb(26, 32, 44)"  # 카드 배경: 어두운 회색
+card_text_color_in_site_footer = "#bbdefb"  # 푸터의 카드 텍스트: 밝은 파란색
+card_border_color = "rgba(255,255,255,0.1)"  # 카드 테두리: 연한 흰색
