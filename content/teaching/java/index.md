@@ -69,7 +69,6 @@ public class Main {
 
 
 
-#### 다음 유튜브를 보시면 더 빨리  자바를 익히실 수 있습니다
-**Youtube**:
+#### 다음 유튜브를 시청하시면 더 빨리  자바를 익히실 수 있습니다
 
-    {{</* youtube DNCBaeCoMug */>}}
+{{< youtube DNCBaeCoMug >}}
