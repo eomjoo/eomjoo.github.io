@@ -44,13 +44,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: '/publication/happy/학문의+즐거움.hwp.pdf'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://www.yes24.com/Product/Goods/243767'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

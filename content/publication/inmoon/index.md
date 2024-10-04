@@ -31,13 +31,8 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: '/publication/happy/수학+인문으로+수를+읽다.hwp.pdf'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: 'https://www.yes24.com/Product/Search?domain=BOOK&query=%EC%88%98%ED%95%99%20%EC%9D%B8%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EC%88%98%EB%A5%BC%20%EC%9D%BD%EB%8B%A4'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

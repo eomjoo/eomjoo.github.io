@@ -33,13 +33,8 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: '/publication/happy/수학비타민.hwp.pdf'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_source: 'https://www.yes24.com/Product/Goods/103168902'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
