@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: 수학+인문으로+수를+읽다.hwp.pdf
+url_pdf: '/publication/happy/수학+인문으로+수를+읽다.hwp.pdf'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
