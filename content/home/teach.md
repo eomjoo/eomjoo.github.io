@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "asdsad"
 date: 2022-10-24
 type: landing
+featured: true
 
 sections:
   - block: collection
