@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 독후감  
 cms_exclude: true
 
 # View.
