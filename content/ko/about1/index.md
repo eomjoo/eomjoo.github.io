@@ -15,7 +15,7 @@ sections:
     content:
       slides:
 
-      - title: <span style="font-size:90%">AI</span>
+      - title: 
         content: <span style="font-size:90%">자바<span style="font-size:90%">
         align: center
         background:
@@ -26,7 +26,7 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Medical AI</span>
+      - title: 
         content: <span style="font-size:90%">Spring</span>
         align: center
         background:
@@ -37,7 +37,7 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Healthcare</span>
+      - title: 
         content: <span style="font-size:90%">AI</span>
         align: center
         background:
@@ -48,7 +48,7 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Aerospace</span>
+      - title: 
         content: <span style="font-size:90%">개발</span>
         align: center
         background:
