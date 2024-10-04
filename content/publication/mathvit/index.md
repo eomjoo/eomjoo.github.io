@@ -34,8 +34,6 @@ url_pdf: '/publication/happy/수학비타민.hwp.pdf'
 url_source: 'https://www.yes24.com/Product/Goods/103168902'
 
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: '수학비타민'
   filename: 'mathvit.jpg'

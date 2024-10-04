@@ -41,8 +41,6 @@ url_pdf: '/publication/happy/학문의+즐거움.hwp.pdf'
 url_source: 'https://www.yes24.com/Product/Goods/243767'
 
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: '학문의 즐거움'
   filename: 'enjoy.jpg'
