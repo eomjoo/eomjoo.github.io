@@ -2,7 +2,7 @@
 title: Basketball
 view: community/custom_card
 banner:
-  caption: ''
+  caption: '르브론 제임스'
   image: 'basketball.jpg'
 
 
