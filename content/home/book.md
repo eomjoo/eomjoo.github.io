@@ -5,14 +5,14 @@ type: landing
 
 sections:
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Featured Publications
       filters:
         folders:
           - publication
-        featured_only: true
+      featured_only: true
     design:
       view: card
-      columns: 2
+      columns: 3
 ---
