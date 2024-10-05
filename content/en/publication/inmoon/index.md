@@ -16,9 +16,9 @@ publishDate: "2016"
 publication: ""
 publication_short: ""
 
-abstract: "Reading Numbers in Mathematics, Humanities" examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached.
+abstract: "Reading Numbers in Mathematics, Humanities examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached."
 # Summary. An optional shortened abstract.
-summary: "Reading Numbers in Mathematics, Humanities" examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached.
+summary: "Reading Numbers in Mathematics, Humanities examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached."
 tags:
 - Large Language Models
 
