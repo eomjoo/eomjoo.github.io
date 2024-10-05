@@ -15,18 +15,18 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
-    org_name: 'MacsLAB'
-    description: '전북대 엄주영'
+    org_name: '엄주영'
+    description: '엄주영 포폴 사이트  '
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: '전북대 엄주영'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: '전북대 엄주영'
+    google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: '전북대 엄주영'
+    google: ''
     baidu: ''
 
 # Site header
