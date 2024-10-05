@@ -3,14 +3,14 @@ title: "Contact"
 date: 2024-09-27
 ---
 
-### 안녕하세요 저는 데이터베이스 학부 연구생으로 주로 연구실에 있습니다.     
-  
+### Hello, I am an undergraduate research student specializing in databases, and I am usually in the lab.
+
 
 📧 [djawndud5923@jbnu.ac.kr](djawndud5923@jbnu.ac.kr)
 
 📞 010-6643-8607
 
-📍 전북대학교 공과대학 7호관 4층(정확한 호실 입력), 전주시, 전라북도 54896
+📍 4th Floor, College of Engineering Building 7 (Enter exact room number), Jeonbuk National University, Jeonju, Jeollabuk-do 54896
 
 <iframe
 width="100%"
