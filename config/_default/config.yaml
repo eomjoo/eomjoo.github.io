@@ -1,5 +1,5 @@
 baseURL: "https://eomjoo.github.io/"
-title: "My Awesome Site"
+title: "Eomjoo portpolio Site"
 defaultContentLanguage: "ko"
 
 menu:
@@ -89,4 +89,9 @@ menu:
       name: 연습
       url: publication
       weight: 520
-color: emerald
+
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+  filename: "sitemap.xml"
