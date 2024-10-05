@@ -20,7 +20,7 @@ abstract: "Reading Numbers in Mathematics, Humanities examines the fundamental c
 # Summary. An optional shortened abstract.
 summary: "Reading Numbers in Mathematics, Humanities examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached."
 tags:
-- Large Language Models
+- read numbers in mathematical humanities
 
 featured: true
 

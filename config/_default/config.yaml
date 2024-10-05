@@ -78,6 +78,11 @@ menu:
       url: contact
       weight: 510
 
+    - parent: 만남
+      name: 공부하는 곳
+      url: where
+      weight: 520
+
 
 
 

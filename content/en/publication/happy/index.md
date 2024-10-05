@@ -27,7 +27,7 @@ abstract: A true confession of an ordinary mathematics professor who won a docto
 # Summary. An optional shortened abstract.
 summary: A true confession of an ordinary mathematics professor who won a doctoral degree at Harvard with patience and perseverance, a field prize called the Nobel Prize in mathematics, felt the joy of learning, and realized the true meaning of life in the process of achieving his achievements.
 tags:
-  - Large Language Models
+  - the joy of learning
 
 # Display this page in the Featured widget?
 featured: true

@@ -24,7 +24,7 @@ abstract: One more step with math, one more step with math! The interesting math
 summary: One more step with math, one more step with math! The interesting math story incorporates mathematical principles related to the subject, making math class enjoyable without knowing when you read it.
 
 tags:
-- Source Themes
+- math vitamin
 featured: false
 
 # links:

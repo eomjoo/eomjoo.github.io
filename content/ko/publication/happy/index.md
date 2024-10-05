@@ -27,7 +27,7 @@ abstract: 인내와 끈기로 하버드의 박사학위, 수학의 노벨상이�
 # Summary. An optional shortened abstract.
 summary: 인내와 끈기로 하버드의 박사학위, 수학의 노벨상이라 불리는 필드상을 수상하고 학문의 즐거움을 느끼며, 업적을 이루어낸 과정에서 인생의 참 의미를 깨달은 한 평범한 수학교수의 진실한 고백.
 tags:
-  - Large Language Models
+  - 학문의 즐거움
 
 # Display this page in the Featured widget?
 featured: true
