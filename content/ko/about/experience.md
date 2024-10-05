@@ -23,20 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 전북대학교
-    company: GenCoin
+    company: 
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: 전주시
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+      IT정보공학과 재학
 
-  - title: Professor of Semiconductor Physics
+  - title: 앞으로 채울 예정
     company: University X
     company_url: ''
     company_logo: org-x
