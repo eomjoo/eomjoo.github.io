@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'(앞으로 채울 예정)
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
