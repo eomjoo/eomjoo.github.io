@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 엄주영
+title: 전북대 엄주영
 
 # Is this the primary user of the site?
 superuser: true
