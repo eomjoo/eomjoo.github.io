@@ -27,7 +27,7 @@ menu:
       weight: 210
 
     - parent: 정보
-      name: 뉴스ㅎ
+      name: 뉴스
       url: news
       weight: 220
 
