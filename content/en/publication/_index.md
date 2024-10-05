@@ -1,5 +1,5 @@
 ---
-title: 독후감  
+title: reaing Book  
 cms_exclude: true
 
 # View.
