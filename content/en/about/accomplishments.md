@@ -34,10 +34,10 @@ item:
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
-    description: 운전면허 1종보통
-    organization: 도로교통공단
+    description: DriverLicense 1
+    organization: loadtrafficcenter
     organization_url: https://www.edx.org
-    title: 자동차 운전 면허증
+    title: DriverLisense
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
