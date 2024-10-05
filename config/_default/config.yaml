@@ -68,19 +68,7 @@ menu:
       parent: "hobby"
       weight: 430
 
-    - name: "Contact"
-      identifier: "contact"
-      weight: 500
 
-    - name: "contact"
-      url: "/contact"
-      parent: "contact"
-      weight: 510
-
-    - name: "practice"
-      url: "/publication"
-      parent: "contact"
-      weight: 520
 
     - name: 만남
       weight: 500
