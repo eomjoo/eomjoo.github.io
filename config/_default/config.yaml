@@ -13,7 +13,7 @@ menu:
       weight: 110
 
     - parent: 엄주영
-      name: 자기소개2
+      name: 관심분야
       url: about1
       weight: 120
 
@@ -53,15 +53,20 @@ menu:
       identifier: "hobby"
       weight: 400
 
-    - name: "basketball"
+    - name: "농구"
       url: "/basketball"
       parent: "hobby"
       weight: 410
 
-    - name: "running"
+    - name: "달리기"
       url: "/running"
       parent: "hobby"
       weight: 420
+
+    - name: "독서"
+      url: publication
+      parent: "hobby"
+      weight: 430
 
     - name: "Contact"
       identifier: "contact"
@@ -81,14 +86,11 @@ menu:
       weight: 500
 
     - parent: 만남
-      name: 만남1
+      name: 위치
       url: contact
       weight: 510
 
-    - parent: 만남
-      name: 연습
-      url: publication
-      weight: 520
+
 
 
 sitemap:
