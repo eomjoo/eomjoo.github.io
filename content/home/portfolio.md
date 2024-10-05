@@ -29,13 +29,13 @@ content:
     - name: All
       tag: '*'
       class: 'filter-button'
-    - name: Machine Learning
+    - name: React
       class: 'filter-button'
       tag: ML
-    - name: Computer Vision
+    - name: Linux
       class: 'filter-button'
       tag: CV
-    - name: NLP
+    - name: DataBase
       tag: NLP
       class: 'filter-button'
 
