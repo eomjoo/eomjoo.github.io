@@ -17,17 +17,17 @@ menu:
       url: about1
       weight: 120
 
-    - name: Inform
+    - name: 정보
       url: post
       weight: 200
 
-    - parent: Inform
-      name: Notifications
+    - parent: 정보
+      name: 알림
       url: notification
       weight: 210
 
     - parent: Inform
-      name: News
+      name: 뉴스ㅎ
       url: news
       weight: 220
 
