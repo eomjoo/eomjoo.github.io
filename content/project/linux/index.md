@@ -1,6 +1,6 @@
 ---
 title: 리눅스 사물함 프로젝트
-summary: 
+summary: Linux
 tags:
   - CV
 date: 2022-01-01
