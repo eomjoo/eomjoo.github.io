@@ -17,7 +17,7 @@ image:
 
 JavaScript is the core language of web development, widely used for creating dynamic web applications and implementing server-side logic. In this section, we will explore the features, basic syntax, and applications of JavaScript.
 
-## JavaScript의 특징
+## Features of JavaScript
 - **Dynamic Programming Language:** Supports dynamic typing where the variable's data type is determined at runtime.
 - **Event-Driven Programming:** Provides powerful functionality for handling events, allowing the creation of interactive web applications.
 - **Event-Driven Programming:** Effectively handles asynchronous operations through callbacks, Promises, and await
