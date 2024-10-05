@@ -61,12 +61,7 @@ sections:
 
     
      
-        link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
-          text-color: '#000'
-          url: contact
+        
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
