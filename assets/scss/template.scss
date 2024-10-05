@@ -1,16 +1,12 @@
-
-
 .navbar a {
   padding: 10px 20px;        /* 내부 여백 추가 */
   border-radius: 5px;        /* 모서리를 부드럽게 */
-  transition: all 0.4s ease; /* 모든 변화에 대해 부드러운 전환 */
+  color: #1e3a8a;            /* 기본 텍스트 색상 */
+  transition: color 0.4s ease; /* 텍스트 색상 변경에 대한 부드러운 전환 */
 }
 
 .navbar a:hover {
-  background-color: #1e3a8a; /* 진한 파란색 배경 */
-  color: #ffffff !important; /* 흰색 텍스트 */
-  transform: scale(1.05);    /* 약간 확대 효과 */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 추가 */
+  color: #ff9800;            /* 호버 시 텍스트 색상 변경 (주황색) */
 }
 
 /* 메뉴를 감싸는 컨테이너 (예: .navbar)에 플렉스 박스를 적용하고 가운데 정렬 */
