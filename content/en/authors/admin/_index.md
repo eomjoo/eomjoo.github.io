@@ -63,4 +63,3 @@ social:
 
 I am Eom Juyoung, a student of the Department of IT Information Engineering at Jeonbuk National University, class of 2020. Currently, I am interested in studying the backend and focusing on Spring. I have built a simple web page using Spring. Although I started studying Spring quite late and haven't worked on many Spring-related projects yet, I plan to gain a comprehensive understanding of web development and work on various projects through my Web Service Design course in the second semester of my junior year.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my résumé as a PDF.
