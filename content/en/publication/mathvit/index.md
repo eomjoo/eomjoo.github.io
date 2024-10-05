@@ -1,5 +1,5 @@
 ---
-title: "수학비타민"
+title: "math vitamin"
 authors:
 - admin
 author_notes:
@@ -18,10 +18,10 @@ publishDate: "2016"
 # Publication name and optional abbreviated publication name.
 publication_short: ""
 
-abstract: 수학으로 한 걸음 더, 수학에서 한 걸음 더! 재밌는 수학 이야기에 교과와 연계된 수학 원리가 녹아들어 있어, 읽다 보면 알게 모르게 수학 시간이 즐거워진다.
+abstract: One more step with math, one more step with math! The interesting math story incorporates mathematical principles related to the subject, making math class enjoyable without knowing when you read it.
 
 # Summary. An optional shortened abstract.
-summary: 수학으로 한 걸음 더, 수학에서 한 걸음 더! 재밌는 수학 이야기에 교과와 연계된 수학 원리가 녹아들어 있어, 읽다 보면 알게 모르게 수학 시간이 즐거워진다.
+summary: One more step with math, one more step with math! The interesting math story incorporates mathematical principles related to the subject, making math class enjoyable without knowing when you read it.
 
 tags:
 - Source Themes
@@ -35,7 +35,7 @@ url_source: 'https://www.yes24.com/Product/Goods/103168902'
 
 
 image:
-  caption: '수학비타민'
+  caption: 'math vitamin'
   filename: 'mathvit.jpg'
   focal_point: "center"
   preview_only: false
@@ -56,12 +56,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -1,7 +1,7 @@
 ---
 view: community/custom_card
 banner:
-  caption: "나만의 특별한 시간"
+  caption: "My Special Time"
   image: 'running.jpg'
   text_align: center
   overlay_color: "#000000"
@@ -9,28 +9,24 @@ banner:
   height: '1000px'
   parallax: true
 ---
-# 나의 러닝 이야기 🏃
+# My Running Story 🏃
 
-어렸을 때 부터 체력이 안좋은 저는 체육 선생님의 권유로 러닝을 시작하게 되었습니다.
-그 때 부터 저는 풍경을 바라보면서 러닝 하는게 너무 좋은 나머지 지금까지 러닝을 즐겨하고 있습니다.
-
----
-
-##  노하우 🏃‍♂️
-- **러닝 노하우**: 쳐음에 무턱대고 뛰는 것은 러닝에 대한 흥미를 줄일 수 있습니다. 처음에는 자기 좋아하는 장소를 주변으로 적당한 정도로 가볍게 뛰는 것을 추천드립니다! 그 이후에는 자신만의 루틴을 찾아가는게 좋습니다 
-- **러닝 루틴**: 저는 일주일에 2~3회 정도로 5KM를 30분 목표로 뛰고 있습니다 
+Since I was a child, I wasn't in great shape, so my PE teacher recommended that I start running. From then on, I enjoyed running while looking at the scenery, and I continue to enjoy running to this day.
 
 ---
 
-## 함께 달리기 👥
+## Tips 🏃‍♂️
+- **Running Tips**: Jumping into running without a plan can reduce your interest in it. I recommend starting with light jogging around a place you like! After that, it's good to find your own routine.
+- **Running Routine**: I run about 2-3 times a week, aiming to complete 5KM in 30 minutes.
 
-저는 주로 혼자 뛰었지만 이 자리를 빌미로 다양한 분들과 서로의 러닝 장소를 공유해가며 다양한 곳을 뛰었으면 좋겠습니다
-관심있으신 분들은 아래 번호로 연락 주시면 감사하겠습니다!
+---
+
+## Running Together 👥
+
+I usually run alone, but I hope to take this opportunity to share running locations with various people and run in different places together. If you are interested, please contact me at the number below!
 
 📞 010-6643-8607
 
 ---
 
-
-
-[ 러닝할 때 즐겨 듣는 노래 🎥](https://www.youtube.com/watch?v=5svlvTirzpg&ab_channel=%EC%9D%B8%EC%83%9D%EC%9D%B4%EC%8B%9C%ED%8A%B8%EC%BD%A4_%EA%B3%A0%EA%B5%AC%EB%A7%88VLOG)
+[ Music I Enjoy While Running 🎥](https://www.youtube.com/watch?v=5svlvTirzpg&ab_channel=%EC%9D%B8%EC%83%9D%EC%9D%B4%EC%8B%9C%ED%8A%B8%EC%BD%A4_%EA%B3%A0%EA%B5%AC%EB%A7%88VLOG)

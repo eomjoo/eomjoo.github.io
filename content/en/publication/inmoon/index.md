@@ -1,5 +1,5 @@
 ---
-title: "수학 인문으로 수를 읽다"
+title: "read numbers in mathematical humanities"
 authors:
 - admin
 date: "2016"
@@ -16,10 +16,9 @@ publishDate: "2016"
 publication: ""
 publication_short: ""
 
-abstract: 『수학, 인문으로 수를 읽다』는 수학의 근본 개념과 수학이란 학문에 깃든 흥미로운 요소를 타 학문과 연계해서 살펴본 이 책은 수학을 공부하는 학생들에게, 수학에 대해 알고 싶지만 쉽게 다가가지 못했던 성인들에게 훌륭한 길잡이가 되어줄 것이다.
+abstract: "Reading Numbers in Mathematics, Humanities" examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached.
 # Summary. An optional shortened abstract.
-summary: 『수학, 인문으로 수를 읽다』는 수학의 근본 개념과 수학이란 학문에 깃든 흥미로운 요소를 타 학문과 연계해서 살펴본 이 책은 수학을 공부하는 학생들에게, 수학에 대해 알고 싶지만 쉽게 다가가지 못했던 성인들에게 훌륭한 길잡이가 되어줄 것이다.
-  
+summary: "Reading Numbers in Mathematics, Humanities" examines the fundamental concepts of mathematics and interesting elements in the study of mathematics in connection with other disciplines, and this book will be a great guide for students studying mathematics, adults who want to know about mathematics but have not been easily approached.
 tags:
 - Large Language Models
 
@@ -34,7 +33,7 @@ url_source: 'https://www.yes24.com/Product/Search?domain=BOOK&query=%EC%88%98%ED
 
 # Featured image
 image:
-  caption: '수학 인문으로 수를 읽다'
+  caption: 'read numbers in mathematical humanities'
   filename: 'math.jpg'
   focal_point: "center"
   preview_only: false

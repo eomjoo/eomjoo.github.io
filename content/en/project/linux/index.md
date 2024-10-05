@@ -1,5 +1,5 @@
 ---
-title: 리눅스 사물함 프로젝트
+title: Linux Locker Project
 summary: Linux
 tags:
   - CV

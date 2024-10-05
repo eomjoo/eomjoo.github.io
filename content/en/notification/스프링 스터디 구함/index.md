@@ -1,22 +1,21 @@
 ---
-title: 스프링 스터디 모집합니다!
+title: Looking for Spring Study Members!
 date: 2024-09-30
 ---
 
-저와 같이 스프링 공부를 할 학우 분을 찾습니다! 
+I am looking for fellow students to study Spring together!
 
-  <!--more-->
+<!--more-->
 
-- 뭐를 공부해야할지 잘 모르겠는 분
-- 스프링을 공부하여 프로젝트를 진행하고 싶은 분
-- 스프링을 통해 개발자가 되고 싶은 분
-- 처음 배우는 사람이여도 상관 없습니다!
+- If you are unsure of what to study
+- If you want to study Spring and work on projects
+- If you want to become a developer through Spring
+- Beginners are absolutely welcome!
 
-같이 차근차근 배워 취업에 성공합시다!
+Let's learn step by step and succeed in getting a job!
 
-관심 있으신 분들은 아래 연락처로 연락 주시면 감사하겠습니다
+If you are interested, please contact me at the information below.
 
 📧 [djawndud5923@jbnu.ac.kr](djawndud5923@jbnu.ac.kr)
 
 📞 010-6643-8607
-

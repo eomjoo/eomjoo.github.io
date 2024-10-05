@@ -1,5 +1,5 @@
 ---
-title: 감정일기장
+title: an emotional diary
 summary: React
 tags:
   - ML

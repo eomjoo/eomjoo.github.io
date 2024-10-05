@@ -1,5 +1,5 @@
 ---
-title: 동네별 맛집 추천 웹 
+title: Web to recommend good restaurants by neighborhood
 summary: Database
 tags:
   - NLP
