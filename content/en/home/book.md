@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: '독서 활동'
+title: 'Book Activity'
 subtitle: ''
 
 content:

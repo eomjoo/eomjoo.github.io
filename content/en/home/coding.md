@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: '코딩 교육'
+title: 'Coding Education'
 subtitle: ''
 
 content:
