@@ -25,12 +25,16 @@ experience:
   - title: 전북대학교
     company: GenCoin
     company_url: ''
-    location: 전주
-    date_start: '2020 03-01'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        IT정보공학과        
-     
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
