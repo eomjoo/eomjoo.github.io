@@ -1,7 +1,9 @@
+
+
 .navbar a:hover {
-  background-color: rgba(255, 255, 255, 0.2); /* 배경색 변경 */
-  color: #5e95c3 !important; /* 텍스트 색상 변경 */
-  transition: color 0.2s;
+  background-color: #1e3a8a; /* 진한 파란색 배경 */
+  color: #ffffff !important; /* 흰색 텍스트 */
+  transition: background-color 0.3s, color 0.3s; /* 색 변경을 부드럽게 */
 }
 
 /* 메뉴를 감싸는 컨테이너 (예: .navbar)에 플렉스 박스를 적용하고 가운데 정렬 */
@@ -21,8 +23,3 @@
   text-align: center;
 }
 
-.navbar a {
-  text-align: center;          /* 링크 텍스트도 가운데 정렬 */
-  text-decoration: none;       /* 링크 밑줄 제거 */
-  color: inherit;              /* 부모 요소의 텍스트 색상 상속 */
-}
