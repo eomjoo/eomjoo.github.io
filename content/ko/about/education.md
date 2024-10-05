@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: Education(앞으로 채울 예정)
 subtitle:
 
 # Date format for experience
