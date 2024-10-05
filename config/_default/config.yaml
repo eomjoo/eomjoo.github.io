@@ -1,90 +1,85 @@
 baseURL: "https://eomjoo.github.io/"
-title: "Eomjoo portpolio Site"
-defaultContentLanguage: "ko"
+title: "Eomjoo Portfolio Site"
+defaultContentLanguage: "en"
 
 menu:
   main:
-    - name: 엄주영
+    - name: Owner
       weight: 100
 
-    - parent: 엄주영
-      name: 자기소개
+    - parent: Owner
+      name: About Me
       url: about
       weight: 110
 
-    - parent: 엄주영
-      name: 관심분야
+    - parent: Owner
+      name: Interests
       url: about1
       weight: 120
 
-    - name: 정보
+    - name: Information
       url: post
       weight: 200
 
-    - parent: 정보
-      name: 알림
+    - parent: Information
+      name: Notifications
       url: notification
       weight: 210
 
-    - parent: 정보
-      name: 뉴스
+    - parent: Information
+      name: News
       url: news
       weight: 220
 
-    - name: 코딩 교육
+    - name: Coding Education
       weight: 300
 
-    - parent: 코딩 교육
-      name: 자바스크립트
+    - parent: Coding Education
+      name: JavaScript
       url: teaching/js
       weight: 310
 
-    - parent: 코딩 교육
-      name: 파이썬
+    - parent: Coding Education
+      name: Python
       url: teaching/python
       weight: 320
 
-    - parent: 코딩 교육
-      name: 자바
+    - parent: Coding Education
+      name: Java
       url: teaching/java
       weight: 330
 
-    - name: "취미"
+    - name: Hobby
       identifier: "hobby"
       weight: 400
 
-    - name: "농구"
+    - name: Basketball
       url: "/basketball"
       parent: "hobby"
       weight: 410
 
-    - name: "달리기"
+    - name: Running
       url: "/running"
       parent: "hobby"
       weight: 420
 
-    - name: "독서"
+    - name: Reading
       url: publication
       parent: "hobby"
       weight: 430
 
-
-
-    - name: 만남
+    - name: Meet-up
       weight: 500
 
-    - parent: 만남
-      name: 위치
+    - parent: Meet-up
+      name: Location
       url: contact
       weight: 510
 
-    - parent: 만남
-      name: 공부하는 곳
+    - parent: Meet-up
+      name: Study Places
       url: where
       weight: 520
-
-
-
 
 sitemap:
   changefreq: "weekly"
