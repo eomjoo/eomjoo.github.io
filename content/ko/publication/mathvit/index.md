@@ -24,7 +24,7 @@ abstract: 수학으로 한 걸음 더, 수학에서 한 걸음 더! 재밌는 �
 summary: 수학으로 한 걸음 더, 수학에서 한 걸음 더! 재밌는 수학 이야기에 교과와 연계된 수학 원리가 녹아들어 있어, 읽다 보면 알게 모르게 수학 시간이 즐거워진다.
 
 tags:
-- Source Themes
+- 수학비타민ㅎ
 featured: false
 
 # links:
@@ -56,12 +56,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

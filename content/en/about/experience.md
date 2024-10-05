@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         
-      IT정보공학과
+      IT Informaion Engeneering
   - title: Will be Soon
     company: University X
     company_url: ''
