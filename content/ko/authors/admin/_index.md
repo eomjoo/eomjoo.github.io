@@ -22,7 +22,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 저는 스프링 공부에 관심이 있습니다
+bio: 저는 백엔드에서 스프링 공부에 관심이 있습니다
 
 interests:
   - 자바
