@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: slider
 
 # This file represents a page section.
 headless: true
