@@ -30,7 +30,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.4
-        media: spring.jpg
+        media: spring1.jpg
         fit: cover
     
     - title: "<span style='font-size:90%'>개발</span>"
