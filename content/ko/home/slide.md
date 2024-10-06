@@ -1,6 +1,11 @@
 ---
-title: "Home"
-type: "landing" # 이 부분은 테마에 따라 변경이 필요할 수 있습니다.
+widget: portfolio
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
 
 sections:
 
