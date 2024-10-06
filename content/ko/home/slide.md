@@ -1,68 +1,50 @@
 ---
-# Leave the homepage title empty to use the site title
 widget: slider
-weight: 5
+weight: 50
 active: true
 headless: true
 
-sections:
-  - block: features
-    content:
-      title: 
-      text: <br><span style="font-size:125%">앞으로 공부 하고 관심 있는 분야들</span>
+design:
+    slide_height: '300px'
+    slide_width: '100px'
+    is_fullscreen: false
+  # Automatically transition through slides?
+    loop: true
+  # Duration of transition between slides (in ms)
+    interval: 5000
 
-  - block: slider
-    content:
-      slides:
-        - title: 
-          content: <span style="font-size:90%">자바<span style="font-size:90%">
-          align: center
-          background:
-            image:
-              filename: java1.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
+content:
+    slides:
 
-        - title: 
-          content: <span style="font-size:90%">Spring</span>
-          align: center
-          background:
-            image:
-              filename: spring1.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
+    - title: <span style="font-size:90%">Welcome!</span>
+      content: <span style="font-size:90%">**welcome to my web page**<span style="font-size:90%">
+      align: center
 
-        - title: 
-          content: <span style="font-size:90%">AI</span>
-          align: center
-          background:
-            image:
-              filename: 1.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.4
+        media: coding.jpg
+        fit: cover
 
-        - title: 
-          content: <span style="font-size:90%">개발</span>
-          align: center
-          background:
-            image:
-              filename: dev.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '300px'
-      slide_width: '100px'
-      is_fullscreen: false
-      loop: true
-      interval: 3000
+    - title: <span style="font-size:90%">Devolp</span>
+      content: <span style="font-size:90%">C++로 즐기는 개발 과정</span>
+      align: center
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.4
+        media: coding.jpg
+        fit: cover
+    
+    - title: <span style="font-size:90%">Contact</span>
+      content: create with me?
+      align: center
+      background: 
+        position: center
+        color: '#333'
+        brightness: 0.4
+        media: coding.jpg
+        fit: cover
+      
 ---
