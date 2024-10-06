@@ -10,7 +10,6 @@ appearance:
   theme_day: custom
   font: custom
   font_size: L
-  custom_css: ["css/custom.css"]
 
 # SEO
 marketing:
