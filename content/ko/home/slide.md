@@ -41,4 +41,12 @@ content:
         brightness: 0.4
         media: dev.jpg
         fit: cover
+    - title: "<span style='font-size:90%'>전북대 엄주영</span>"
+      align: center
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.4
+        media: avatarg.jpg
+        fit: cover
 ---
