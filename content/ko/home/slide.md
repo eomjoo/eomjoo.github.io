@@ -47,6 +47,6 @@ content:
         position: center
         color: '#333'
         brightness: 0.4
-        media: avatarg.jpg
+        media: avatar.jpg
         fit: cover
 ---
