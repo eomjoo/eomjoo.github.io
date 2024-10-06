@@ -33,7 +33,7 @@ content:
         media: spring1.jpg
         fit: cover
     
-    - title: "<span style='font-size:90%'>개발</span>"
+    - title: "<span style='font-size:90%'>개발자 전북대 엄주영</span>"
       align: center
       background: 
         position: center
