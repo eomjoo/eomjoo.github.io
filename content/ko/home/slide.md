@@ -16,35 +16,32 @@ design:
 content:
     slides:
 
-    - title: <span style="font-size:90%">Welcome!</span>
-      content: <span style="font-size:90%">**welcome to my web page**<span style="font-size:90%">
+    - title: <span style="font-size:90%">Java</span>
       align: center
 
       background:
         position: center
         color: '#333'
         brightness: 0.4
-        media: coding.jpg
+        media: java1.jpg
         fit: cover
 
-    - title: <span style="font-size:90%">Devolp</span>
-      content: <span style="font-size:90%">C++로 즐기는 개발 과정</span>
+    - title: <span style="font-size:90%">Spring</span>
       align: center
       background:
         position: center
         color: '#333'
         brightness: 0.4
-        media: coding.jpg
+        media: spring.jpg
         fit: cover
     
-    - title: <span style="font-size:90%">Contact</span>
-      content: create with me?
+    - title: <span style="font-size:90%">개발</span>
       align: center
       background: 
         position: center
         color: '#333'
         brightness: 0.4
-        media: coding.jpg
+        media: dev.jpg
         fit: cover
       
 ---
