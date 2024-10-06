@@ -1,8 +1,9 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2024-03-25
-type: landing
+widget: slider
+weight: 5
+active: true
+headless: true
 
 sections:
   - block: features
@@ -59,8 +60,9 @@ sections:
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      is_fullscreen: true
+      slide_height: '300px'
+      slide_width: '100px'
+      is_fullscreen: false
       loop: true
       interval: 3000
 ---
