@@ -21,7 +21,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.4
-        filename: java1.jpg
+        media: java1.jpg
         fit: cover
 
     - title: "<span style='font-size:90%'>Spring</span>"
@@ -30,7 +30,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.4
-        filename: spring.jpg
+        media: spring.jpg
         fit: cover
     
     - title: "<span style='font-size:90%'>개발</span>"
@@ -39,6 +39,6 @@ content:
         position: center
         color: '#333'
         brightness: 0.4
-        filename: dev.jpg
+        media: dev.jpg
         fit: cover
 ---
